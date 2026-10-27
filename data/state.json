@@ -5,11 +5,11 @@
   "planPath": "SCANPLAN.md",
   "initializedOn": "2026-10-27",
   "lastScan": {
-    "id": "2026-10-27-contract-research",
-    "completedAt": "2026-10-27T11:00:32.475Z",
-    "scope": "targeted contract and bridge research",
-    "status": "completed targeted research; not full 12-route daily scan",
-    "report": "scans/2026-10-27-contract-research.md"
+    "id": "2026-10-27-provider-research",
+    "completedAt": "2026-10-27T12:49:24.045Z",
+    "scope": "12 providers, 30 GitHub repositories, selected PR metadata and 6 public APIs",
+    "status": "completed targeted provider research; not full 12-route daily scan",
+    "report": "scans/2026-10-27-provider-research.md"
   },
   "baselineComplete": false,
   "sources": [
@@ -117,6 +117,276 @@
           "sha256": "df2e2a520f4bc1d8baff847b432405b866cde033248f15aff645905c888c0658"
         }
       ]
+    },
+    {
+      "id": "provider:relayprotocol/relay-periphery",
+      "repository": "relayprotocol/relay-periphery",
+      "commit": "f937c6c0747a4685cc23a57f80840c4ec9ffcccc",
+      "checkedAt": "2026-10-27T12:44:50.547Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:50.547Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:relayprotocol/relay-docs",
+      "repository": "relayprotocol/relay-docs",
+      "commit": "a0019bb36b93de79c226f821adc2b5ca7e9cb1ed",
+      "checkedAt": "2026-10-27T12:44:50.533Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:50.533Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:relayprotocol/relay-protocol-oracle",
+      "repository": "relayprotocol/relay-protocol-oracle",
+      "commit": "55b22de6358c212c22eebb48d2df5b793a16e863",
+      "checkedAt": "2026-10-27T12:44:52.673Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:52.673Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:relayprotocol/relay-kit",
+      "repository": "relayprotocol/relay-kit",
+      "commit": "2018024e775690030ac135556bbaab1b4ca7e116",
+      "checkedAt": "2026-10-27T12:44:50.506Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:50.506Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:stargate-protocol/tutorial-api-transfer",
+      "repository": "stargate-protocol/tutorial-api-transfer",
+      "commit": "2c493acaa1f2333344b32fa6ca8ee469f64df350",
+      "checkedAt": "2026-10-27T12:44:59.017Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:59.017Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:relayprotocol/relay-settlement",
+      "repository": "relayprotocol/relay-settlement",
+      "commit": "b2f3e0e5fba9381293f030ef340ffb4872687fcf",
+      "checkedAt": "2026-10-27T12:44:50.566Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:50.566Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:stargate-protocol/stargate-v2",
+      "repository": "stargate-protocol/stargate-v2",
+      "commit": "7a0e7a6cfac1cb569b3f5b65203cb900326b9820",
+      "checkedAt": "2026-10-27T12:44:55.651Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:55.651Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:LayerZero-Labs/lz-address-book",
+      "repository": "LayerZero-Labs/lz-address-book",
+      "commit": "c7c7c8f1cde9612fee901d81bffd1c9cb7f724d3",
+      "checkedAt": "2026-10-27T12:45:22.707Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:22.707Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:LayerZero-Labs/LayerZero-v2",
+      "repository": "LayerZero-Labs/LayerZero-v2",
+      "commit": "9c741e7f9790639537b1710a203bcdfd73b0b9ac",
+      "checkedAt": "2026-10-27T12:44:59.057Z",
+      "lastSuccessfulCheck": "2026-10-27T12:44:59.057Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:LayerZero-Labs/monorepo-external",
+      "repository": "LayerZero-Labs/monorepo-external",
+      "commit": "e6be7043a9785e3fbd8792eb09e035dfd8469b47",
+      "checkedAt": "2026-10-27T12:45:26.979Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:26.979Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:LayerZero-Labs/devtools",
+      "repository": "LayerZero-Labs/devtools",
+      "commit": "4973ba8bef7b0fdf7268469abea3ea50dbd4bbd8",
+      "checkedAt": "2026-10-27T12:45:01.566Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:01.566Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:debridge-finance/multisig-evm-transactions",
+      "repository": "debridge-finance/multisig-evm-transactions",
+      "commit": "30d4fa29ef786768d10e3100589a0ca900dae770",
+      "checkedAt": "2026-10-27T12:45:28.667Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:28.667Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:debridge-finance/dln-contracts",
+      "repository": "debridge-finance/dln-contracts",
+      "commit": "d54e94f2b5102bff89a4df506404bb77f3edc148",
+      "checkedAt": "2026-10-27T12:45:31.805Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:31.805Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:debridge-finance/debridge-launcher",
+      "repository": "debridge-finance/debridge-launcher",
+      "commit": "bad368a651958ca30a9e933d40848e7a348d8c30",
+      "checkedAt": "2026-10-27T12:45:33.132Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:33.132Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:debridge-finance/debridge-contracts-v1",
+      "repository": "debridge-finance/debridge-contracts-v1",
+      "commit": "2e9f9c73438738310b5293cec4cffe25741e9b1f",
+      "checkedAt": "2026-10-27T12:45:30.243Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:30.243Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:celer-network/contract_addresses",
+      "repository": "celer-network/contract_addresses",
+      "commit": "c40a5bafe3b9bc4f3023c8ac2769a7e2328700db",
+      "checkedAt": "2026-10-27T12:45:34.851Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:34.851Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:celer-network/sgn-v2-contracts",
+      "repository": "celer-network/sgn-v2-contracts",
+      "commit": "dd60f9563d84127cd5cd33adcbe1df0fc14090e3",
+      "checkedAt": "2026-10-27T12:45:33.330Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:33.330Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:MesonFi/meson-to",
+      "repository": "MesonFi/meson-to",
+      "commit": "e8baa06e0a73078635d4063562fcf04ba240ffab",
+      "checkedAt": "2026-10-27T12:45:37.110Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:37.110Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:mayan-finance/swap-sdk",
+      "repository": "mayan-finance/swap-sdk",
+      "commit": "cf99924161d1e7fee181dd715d2a76f2aa05147d",
+      "checkedAt": "2026-10-27T12:45:37.174Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:37.174Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:celer-network/cBridge-typescript-client",
+      "repository": "celer-network/cBridge-typescript-client",
+      "commit": "83b466c2f6ea3e4bcadfa4c78da13f13dfd346f5",
+      "checkedAt": "2026-10-27T12:45:35.528Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:35.528Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:across-protocol/constants",
+      "repository": "across-protocol/constants",
+      "commit": "c0d692f643042e0a7ad0affb4a903ece2326822d",
+      "checkedAt": "2026-10-27T12:45:39.602Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:39.602Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:mayan-finance/docs",
+      "repository": "mayan-finance/docs",
+      "commit": "35344757220384cee1237671a376b8ba834f1051",
+      "checkedAt": "2026-10-27T12:45:38.464Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:38.464Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:across-protocol/exclusive-relayer-configs",
+      "repository": "across-protocol/exclusive-relayer-configs",
+      "commit": "add8b511813e87931ec9d3c328dc64bafbb46f0b",
+      "checkedAt": "2026-10-27T12:45:41.725Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:41.725Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:hyperlane-xyz/hyperlane-registry",
+      "repository": "hyperlane-xyz/hyperlane-registry",
+      "commit": "853a5e602674c7b9a7bde4769112daeb1631c2a8",
+      "checkedAt": "2026-10-27T12:45:42.467Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:42.467Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:wormhole-foundation/wormhole-sdk-ts",
+      "repository": "wormhole-foundation/wormhole-sdk-ts",
+      "commit": "c0dbf3498e9eb5dc40d2441ac61567a89d6fbde9",
+      "checkedAt": "2026-10-27T12:45:42.199Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:42.199Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:lifinance/types",
+      "repository": "lifinance/types",
+      "commit": "1b7af47a75070c029137a044accf322d22844e85",
+      "checkedAt": "2026-10-27T12:46:15.481Z",
+      "lastSuccessfulCheck": "2026-10-27T12:46:15.481Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:lifinance/contracts",
+      "repository": "lifinance/contracts",
+      "commit": "5c250d99e2d4403f309fdbabc2a4685420026af1",
+      "checkedAt": "2026-10-27T12:45:44.531Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:44.531Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:across-protocol/contracts",
+      "repository": "across-protocol/contracts",
+      "commit": "b1c4e86225420df5cb8d03042526622aca80fe61",
+      "checkedAt": "2026-10-27T12:45:39.793Z",
+      "lastSuccessfulCheck": "2026-10-27T12:45:39.793Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:axelarnetwork/axelar-configs",
+      "repository": "axelarnetwork/axelar-configs",
+      "commit": "6c1f23a7860b6c37defffbc01e80fbb520b5c0bb",
+      "checkedAt": "2026-10-27T12:46:19.042Z",
+      "lastSuccessfulCheck": "2026-10-27T12:46:19.042Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
+    },
+    {
+      "id": "provider:axelarnetwork/axelar-contract-deployments",
+      "repository": "axelarnetwork/axelar-contract-deployments",
+      "commit": "4d3c9281a55b601beddd87d5e7064d7b75559e50",
+      "checkedAt": "2026-10-27T12:46:16.284Z",
+      "lastSuccessfulCheck": "2026-10-27T12:46:16.284Z",
+      "scope": "Tracked default-branch text; excludes lock-named files, SVG and snapshots; submodule content not recursively checked. Branch names checked, not branch contents.",
+      "details": "data/providers/repositories.json"
     }
   ],
   "leads": [
@@ -179,6 +449,18 @@
       "reason": "Generieke constructornaam.",
       "firstSeenAt": "2026-10-27T11:00:31.803Z",
       "lastSeenAt": "2026-10-27T11:00:31.803Z"
+    },
+    {
+      "id": "L008",
+      "title": "External bridge/provider watch routes",
+      "status": "30 repository baselines, no confirmed NewL1 integration",
+      "firstSeenAt": "2026-10-27T12:49:24.045Z",
+      "lastSeenAt": "2026-10-27T12:49:24.045Z",
+      "files": [
+        "data/providers/network-baseline.json",
+        "data/providers/contract-watchlist.json"
+      ],
+      "next": "Compare new chain names, EIDs, deployment paths and PR updates; do not rely only on NewL1 keyword."
     }
   ],
   "note": "Gerichte contractnulmeting; volledige dagelijkse nulmeting nog niet uitgevoerd."

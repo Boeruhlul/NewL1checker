@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2026-10-27T12:49:24.045Z",
+  "contracts": [
+    {
+      "provider": "Relay",
+      "name": "relayReceiver",
+      "address": "0xa5f565650890fba1824ee0f21ebbbf660a179934",
+      "chainId": 56,
+      "source": "https://api.relay.link/chains",
+      "status": "public provider metadata; not live-code-verified",
+      "watch": "New network entries and address changes; these existing BSC contracts do not prove NewL1 support."
+    },
+    {
+      "provider": "Relay",
+      "name": "erc20Router",
+      "address": "0x0729e2a4716d9f7dd17858d5d504426d228697f7",
+      "chainId": 56,
+      "source": "https://api.relay.link/chains",
+      "status": "public provider metadata; not live-code-verified",
+      "watch": "New network entries and address changes; these existing BSC contracts do not prove NewL1 support."
+    },
+    {
+      "provider": "Relay",
+      "name": "approvalProxy",
+      "address": "0x5567954cd026cebfe486062cb75848e0f1c12e58",
+      "chainId": 56,
+      "source": "https://api.relay.link/chains",
+      "status": "public provider metadata; not live-code-verified",
+      "watch": "New network entries and address changes; these existing BSC contracts do not prove NewL1 support."
+    },
+    {
+      "provider": "Stargate",
+      "name": "TokenMessaging",
+      "address": "0x6E3d884C96d640526F273C61dfcF08915eBd7e2B",
+      "chainId": 56,
+      "source": "https://github.com/stargate-protocol/stargate-v2/blob/7a0e7a6cfac1cb569b3f5b65203cb900326b9820/packages/stg-evm-v2/deployments/bsc-mainnet/TokenMessaging.json",
+      "status": "deployment artifact; not live-code-verified",
+      "watch": "PeerSet(uint32,bytes32) is an OApp candidate event: verify deployed ABI and peer configuration; map EID via LayerZero metadata."
+    },
+    {
+      "provider": "Stargate",
+      "name": "CreditMessaging",
+      "address": "0x25BBf59ef9246Dc65bFac8385D55C5e524A7B9eA",
+      "chainId": 56,
+      "source": "https://github.com/stargate-protocol/stargate-v2/blob/7a0e7a6cfac1cb569b3f5b65203cb900326b9820/packages/stg-evm-v2/deployments/bsc-mainnet/CreditMessaging.json",
+      "status": "deployment artifact; not live-code-verified",
+      "watch": "PeerSet(uint32,bytes32) is an OApp candidate event: verify deployed ABI and peer configuration; map EID via LayerZero metadata."
+    },
+    {
+      "provider": "Stargate",
+      "name": "StargatePoolUSDC",
+      "address": "0x962Bd449E630b0d928f308Ce63f1A21F02576057",
+      "chainId": 56,
+      "source": "https://github.com/stargate-protocol/stargate-v2/blob/7a0e7a6cfac1cb569b3f5b65203cb900326b9820/packages/stg-evm-v2/deployments/bsc-mainnet/StargatePoolUSDC.json",
+      "status": "deployment artifact; not live-code-verified",
+      "watch": "Deployment/config changes and association with messaging; not a NewL1 bridge address."
+    },
+    {
+      "provider": "Stargate",
+      "name": "StargatePoolUSDT",
+      "address": "0x138EB30f73BC423c6455C53df6D89CB01d9eBc63",
+      "chainId": 56,
+      "source": "https://github.com/stargate-protocol/stargate-v2/blob/7a0e7a6cfac1cb569b3f5b65203cb900326b9820/packages/stg-evm-v2/deployments/bsc-mainnet/StargatePoolUSDT.json",
+      "status": "deployment artifact; not live-code-verified",
+      "watch": "Deployment/config changes and association with messaging; not a NewL1 bridge address."
+    },
+    {
+      "provider": "LayerZero",
+      "name": "EndpointV2",
+      "address": "0x1a44076050125825900e736c501f859c50fe728c",
+      "chainId": 56,
+      "endpointId": "30102",
+      "source": "https://metadata.layerzero-api.com/v1/metadata/deployments",
+      "status": "public provider metadata; not live-code-verified",
+      "watch": "New endpoint IDs/deployments and app-specific peers/DVN/ULN config. EID 30102 is BSC, not EVM chain ID or NewL1."
+    }
+  ]
+}

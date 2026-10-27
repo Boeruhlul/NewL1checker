@@ -15,6 +15,8 @@ Op 27 oktober 2026 is een [gerichte contract- en bridgenulmeting](scans/2026-10-
 
 ## Na iedere scan
 
+Aanvullend uitgevoerd: [externe bridgepartijen](scans/2026-10-27-provider-research.md), met 12 partijen en 30 repositories. Zie de [providerbaseline](data/providers/repositories.json), [netwerkgegevens](data/providers/network-baseline.json) en [externe contractwatchlist](data/providers/contract-watchlist.json). Geen bevestigde NewL1-integratie gevonden binnen deze selectie.
+
 Lees eerst de nieuwste repositoryversie, vergelijk met de vorige succesvolle controle per bron, bewaar nieuwe en gewijzigde leads, werk het register bij en commit de resultaten naar deze repository. Rapporteer onbereikbare en niet-gecontroleerde bronnen. Onbevestigde leads blijven zichtbaar.
 
 Deze repository is openbaar: bewaar geen sleutels, tokens, privéberichten of vertrouwelijke toegangsgegevens. Lokale bestanden zijn hoogstens tijdelijke werkkopieën.

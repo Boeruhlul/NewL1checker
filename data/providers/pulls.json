@@ -1,0 +1,4547 @@
+{
+  "checkedAt": "2026-10-27T12:49:24.045Z",
+  "note": "Titles, bodies and head names searched during scan. Saved metadata omits bodies. 100 most recently updated per repo; not complete history.",
+  "results": [
+    {
+      "repo": "relayprotocol/relay-kit",
+      "status": 200,
+      "scope": "100 most recently updated PRs, all states; not all historical PRs",
+      "prs": [
+        {
+          "number": 1161,
+          "title": "Release the: Loyal Spadefoot Toad!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1161",
+          "state": "closed",
+          "updated": "2026-10-26T19:08:53Z",
+          "head": "changeset-release/main",
+          "headSha": "2c90a0642b9d8c1739fcccb2518e6f7d73d1ed66"
+        },
+        {
+          "number": 1160,
+          "title": "feat(hooks)!: move useTokenPrice to token price v2 and drop useRelayC…",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1160",
+          "state": "closed",
+          "updated": "2026-10-26T19:00:18Z",
+          "head": "pedro/int2-1847-retire-config-v1-v2-token-price-v1-and-currencies-v1",
+          "headSha": "8fb0c0c16255f187fa9ab8f0ee9b4a8022930253"
+        },
+        {
+          "number": 1158,
+          "title": "fix(ui): treat an empty amount as zero when building quote parameters",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1158",
+          "state": "closed",
+          "updated": "2026-10-23T14:20:03Z",
+          "head": "fix/ui-empty-amount-parse-units",
+          "headSha": "acc0b35e3a7d3e296f349d4eeef8498fa0215a57"
+        },
+        {
+          "number": 1159,
+          "title": "fix(ui): treat an empty amount as zero when building quote parameters",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1159",
+          "state": "open",
+          "updated": "2026-10-23T13:28:22Z",
+          "head": "fix/ui-empty-amount-as-zero",
+          "headSha": "acc0b35e3a7d3e296f349d4eeef8498fa0215a57"
+        },
+        {
+          "number": 1157,
+          "title": "fix: Upgrade demo next to 15.5.28 and force sharp >=0.35.5 (INT2-1844)",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1157",
+          "state": "closed",
+          "updated": "2026-10-21T20:40:24Z",
+          "head": "pedro/int2-1844-nextjs-critical-rces-2026-10-14-advisory-production",
+          "headSha": "96cb3891cb752dcbb0a72500e556633ce9ff91f9"
+        },
+        {
+          "number": 1156,
+          "title": "fix(sdk): preserve repeatUntilOk retry results",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1156",
+          "state": "open",
+          "updated": "2026-10-17T20:21:50Z",
+          "head": "fix/repeat-until-ok-result",
+          "headSha": "5dd0b76ac2ed01ac60670dc142cef4a5bdac29f7"
+        },
+        {
+          "number": 1154,
+          "title": "Build(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1154",
+          "state": "open",
+          "updated": "2026-10-14T21:23:28Z",
+          "head": "dependabot/github_actions/actions/upload-artifact-7.0.2",
+          "headSha": "dfb81d9e3fbf5c65402e22104b183efe0d371539"
+        },
+        {
+          "number": 1155,
+          "title": "Build(deps): bump actions/download-artifact from 8.0.1 to 8.0.2",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1155",
+          "state": "open",
+          "updated": "2026-10-14T20:50:01Z",
+          "head": "dependabot/github_actions/actions/download-artifact-8.0.2",
+          "headSha": "122b146f7736e3b2f7e4f375f75469c83a160547"
+        },
+        {
+          "number": 1144,
+          "title": "fix(sdk): stop signature step polling on failure or refund",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1144",
+          "state": "open",
+          "updated": "2026-10-09T15:56:16Z",
+          "head": "fix/sdk-signature-check-final-status",
+          "headSha": "b9b9cf9964279f2d26673ef0b43bfb59164a9827"
+        },
+        {
+          "number": 1153,
+          "title": "fix(demo): restrict SDK demo proxies to the routes the demo uses",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1153",
+          "state": "open",
+          "updated": "2026-10-08T18:41:29Z",
+          "head": "ted/int2-1730-vulnerability-report-sdk-demo-exposes-api-key",
+          "headSha": "d310ae9b236c61286e21e3cedf649f3a74bacb51"
+        },
+        {
+          "number": 1152,
+          "title": "Release the: Tinkling Asian Elephant!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1152",
+          "state": "closed",
+          "updated": "2026-10-06T18:57:36Z",
+          "head": "changeset-release/main",
+          "headSha": "8c4ee5e18a97251001323b0c36937759c6bc2b79"
+        },
+        {
+          "number": 1147,
+          "title": "fix(sdk): show unsupported chain error when wallet rejects wallet_addEthereumChain",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1147",
+          "state": "closed",
+          "updated": "2026-10-06T18:41:56Z",
+          "head": "ted/int2-1475-show-correct-error-when-wallet-rejects-chain-addition",
+          "headSha": "81688a464119f9e817f5004e71bba12ebde54483"
+        },
+        {
+          "number": 1151,
+          "title": "fix: support Robinhood Lighter as a destination and block lvm chains as origin",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1151",
+          "state": "closed",
+          "updated": "2026-10-06T18:37:04Z",
+          "head": "ted/int2-1712-fix-robinhood-lighter-source-account-on-the-frontend",
+          "headSha": "06732d9b5ba4f988d4537b6d21247e338f438a05"
+        },
+        {
+          "number": 1150,
+          "title": "fix(sdk): return the result from pollUntilHasData and pollUntilOk retries",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1150",
+          "state": "open",
+          "updated": "2026-10-06T14:24:29Z",
+          "head": "fix-poll-api-return-result",
+          "headSha": "138b442ad3702c1dcfb8ea6935dad176a1d8fadb"
+        },
+        {
+          "number": 1148,
+          "title": "Release the: Lively Pied Tamarin!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1148",
+          "state": "closed",
+          "updated": "2026-10-06T14:06:43Z",
+          "head": "changeset-release/main",
+          "headSha": "51d982899a0787f9d92899b13592b74461d405dc"
+        },
+        {
+          "number": 1149,
+          "title": "fix(bitcoin-adapter): initialize ECC lib for Taproot PSBT finalization",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1149",
+          "state": "closed",
+          "updated": "2026-10-05T20:26:05Z",
+          "head": "pedro/int2-1684-unisat-taproot-swaps-fail-before-broadcast",
+          "headSha": "79e534760cdd4c187f259e47444df9394ee965f2"
+        },
+        {
+          "number": 1146,
+          "title": "fix: block Solana token accounts in recipient field",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1146",
+          "state": "closed",
+          "updated": "2026-10-05T15:08:26Z",
+          "head": "pedro/int2-1468-block-solana-token-accounts-in-recipient-field",
+          "headSha": "d4f926c73f768018e580402e6b2813bd2f7d8565"
+        },
+        {
+          "number": 1145,
+          "title": "fix(tron): fail when the broadcast is rejected",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1145",
+          "state": "open",
+          "updated": "2026-10-02T20:01:33Z",
+          "head": "fix/tron-broadcast-failure",
+          "headSha": "cc388c82551066ed21ff9ade9ad55a8023254e5c"
+        },
+        {
+          "number": 1143,
+          "title": "fix(ui): keep integer zeros in formatNumber",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1143",
+          "state": "open",
+          "updated": "2026-10-02T20:01:15Z",
+          "head": "fix/ui-format-number-integer-zeros",
+          "headSha": "3f18042a79fbe448149eafe6bad8f6ac18cf581a"
+        },
+        {
+          "number": 1134,
+          "title": "Release the: Intrepid Common Frog!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1134",
+          "state": "closed",
+          "updated": "2026-10-01T14:10:40Z",
+          "head": "changeset-release/main",
+          "headSha": "e1c9f95db72b6483b576f8f8d347ecea8e90734d"
+        },
+        {
+          "number": 1142,
+          "title": "test(sdk): mock getChainId in gas fee estimation tests",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1142",
+          "state": "closed",
+          "updated": "2026-09-30T17:57:27Z",
+          "head": "ted/fix-sdk-gas-fee-test-rpc",
+          "headSha": "57f4cca9e9acabfba2d78dcc5c94e37562ececc2"
+        },
+        {
+          "number": 1138,
+          "title": "feat(ui): add thousands separators to swap widget amount inputs",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1138",
+          "state": "closed",
+          "updated": "2026-09-30T17:53:12Z",
+          "head": "ted/int2-928-relaykit-add-thousands-separators-to-swap-amounts",
+          "headSha": "214be2191b56c11f19ed8284dd60c0e84474a9c2"
+        },
+        {
+          "number": 1136,
+          "title": "Remove Porto wallet",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1136",
+          "state": "closed",
+          "updated": "2026-09-30T17:19:35Z",
+          "head": "ted/remove-porto",
+          "headSha": "d92eaa71ea62095c7cc47a3fbfe4097a2224e960"
+        },
+        {
+          "number": 1141,
+          "title": "fix(ui): use full balance on MAX for non-native tokens",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1141",
+          "state": "closed",
+          "updated": "2026-09-30T17:10:59Z",
+          "head": "ted/int2-1408-max-leaves-gas-reserve-for-erc-20-sales",
+          "headSha": "9eedd95c66c6ad810c70d9e2f16166ed1d2301d8"
+        },
+        {
+          "number": 1140,
+          "title": "feat(sdk): surface the HyperCore origin tx hash once the send lands",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1140",
+          "state": "closed",
+          "updated": "2026-09-29T20:30:43Z",
+          "head": "hypercore-origin-tx-hash",
+          "headSha": "9f651a7b4919093ae53bafc59e8f3b9773948e3c"
+        },
+        {
+          "number": 1117,
+          "title": "Upgrade Dynamic libraries to 4.96.3 in demo",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1117",
+          "state": "closed",
+          "updated": "2026-09-29T17:23:50Z",
+          "head": "ted/int2-1294-relaykit-upgrade-dynamic-libraries",
+          "headSha": "76ddb44976d248858533f7389ebccf2d8139ee16"
+        },
+        {
+          "number": 1135,
+          "title": "fix(ui): give the MoonPay onramp widget more height",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1135",
+          "state": "closed",
+          "updated": "2026-09-22T13:43:09Z",
+          "head": "pedro/int2-1379-moonpay-modal-is-too-short",
+          "headSha": "52e0a0e292253ddf686a96f4e3dea1781e74a62d"
+        },
+        {
+          "number": 1132,
+          "title": "Handle superseded requests in relay kit",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1132",
+          "state": "closed",
+          "updated": "2026-09-21T14:56:27Z",
+          "head": "pedro/int2-1360-handle-superseded-requests-in-relay-kit",
+          "headSha": "945bdbf49cdb9ddd1608af192400722195cbf6b0"
+        },
+        {
+          "number": 1133,
+          "title": "Add Robinhood chain to Phantom supported chains",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1133",
+          "state": "closed",
+          "updated": "2026-09-21T14:07:24Z",
+          "head": "ted/int2-1502-allow-phantom-on-robinhood-chain",
+          "headSha": "f4bf162a0575d474a80c32e852448fce582671f7"
+        },
+        {
+          "number": 1131,
+          "title": "Release the: Daring Sea Otter!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1131",
+          "state": "closed",
+          "updated": "2026-09-17T10:04:25Z",
+          "head": "changeset-release/main",
+          "headSha": "748ee91575aa6f8e21874e68ec988012f8dc8a31"
+        },
+        {
+          "number": 1130,
+          "title": "perf(ui): Use indicative quotes for dead addresses",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1130",
+          "state": "closed",
+          "updated": "2026-09-17T09:39:57Z",
+          "head": "perf/indicative-dead-address-quotes",
+          "headSha": "c9ffb7db663eb7a060571c226208ad83f07747de"
+        },
+        {
+          "number": 1123,
+          "title": "fix(deps): resolve high and critical npm advisories (SEC-213)",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1123",
+          "state": "open",
+          "updated": "2026-09-14T16:06:13Z",
+          "head": "sec-213",
+          "headSha": "35ab76ae97d16d24a4de25c0685d2e520ad18662"
+        },
+        {
+          "number": 1129,
+          "title": "Build(deps): bump changesets/action from 1.9.0 to 2.1.2",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1129",
+          "state": "open",
+          "updated": "2026-09-14T13:48:53Z",
+          "head": "dependabot/github_actions/changesets/action-2.1.2",
+          "headSha": "6f1c4a018e66932a52f9b2547a67db615fdc1a61"
+        },
+        {
+          "number": 1114,
+          "title": "Build(deps): bump changesets/action from 1.9.0 to 2.1.1",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1114",
+          "state": "closed",
+          "updated": "2026-09-14T13:44:57Z",
+          "head": "dependabot/github_actions/changesets/action-2.1.1",
+          "headSha": "c981c5584fd872da5f849542f299aead982b5650"
+        },
+        {
+          "number": 1128,
+          "title": "Release the: Zestful Quail!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1128",
+          "state": "closed",
+          "updated": "2026-09-09T19:46:46Z",
+          "head": "changeset-release/main",
+          "headSha": "16de75d11d941dc41a2258022cfdfe01b2338dd3"
+        },
+        {
+          "number": 1127,
+          "title": "Release the: Quirky Possum!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1127",
+          "state": "closed",
+          "updated": "2026-09-09T19:40:14Z",
+          "head": "changeset-release/main",
+          "headSha": "2498eeedf9c05724bd76e43a32e715ae3439df35"
+        },
+        {
+          "number": 1109,
+          "title": "docs: fix contributor heading",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1109",
+          "state": "closed",
+          "updated": "2026-09-09T19:34:57Z",
+          "head": "docs/contribution-and-sdk-guidance",
+          "headSha": "ecf859b4c48f66bbb50403547710a7be3f457aa1"
+        },
+        {
+          "number": 1126,
+          "title": "Fix Tron swap UX in the TRX/USDT flow",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1126",
+          "state": "closed",
+          "updated": "2026-09-09T19:30:06Z",
+          "head": "pedro/int2-976-fix-tron-swap-ux-issues-in-trxusdt-flow",
+          "headSha": "8515d7cbfe90742e4ac7c79283a15ca1d7f6dda0"
+        },
+        {
+          "number": 1125,
+          "title": "Release the: Upbeat Sumatran Orang-utan!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1125",
+          "state": "closed",
+          "updated": "2026-09-08T17:45:48Z",
+          "head": "changeset-release/main",
+          "headSha": "6234546977917c2c9e05554e20ab103b7f8be482"
+        },
+        {
+          "number": 1124,
+          "title": "chore: update sdk types and fix inconsistencies",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1124",
+          "state": "closed",
+          "updated": "2026-09-08T17:33:22Z",
+          "head": "chore/sync-types",
+          "headSha": "60cbfd59fd777131af03742df1d6a57c75293a77"
+        },
+        {
+          "number": 1122,
+          "title": "Release the: Zippy Sloth!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1122",
+          "state": "closed",
+          "updated": "2026-09-03T13:31:42Z",
+          "head": "changeset-release/main",
+          "headSha": "04be9f9bba292594504b51bd405c907962803cdb"
+        },
+        {
+          "number": 1119,
+          "title": "ci: standardize commit messages",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1119",
+          "state": "closed",
+          "updated": "2026-09-02T19:11:21Z",
+          "head": "ted/standardize-commit-messages",
+          "headSha": "22621f65d0426418f9a5ff5e2fc1ba78af14b252"
+        },
+        {
+          "number": 1120,
+          "title": "fix: stop fetching request on success modal close",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1120",
+          "state": "closed",
+          "updated": "2026-09-02T17:43:36Z",
+          "head": "ted/int2-1029-request-api-needlessly-being-made-after-closing-success",
+          "headSha": "ae3865bf2e585ac8781ab625971a7ca95c89b54f"
+        },
+        {
+          "number": 1121,
+          "title": "Fix swap flipping to error after websocket already confirmed success",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1121",
+          "state": "closed",
+          "updated": "2026-09-02T17:28:51Z",
+          "head": "ted/fix-swap-flipping-to-error-after-success",
+          "headSha": "8fc3ccb511e178bc08b1ead234e187550eb2d5c3"
+        },
+        {
+          "number": 1118,
+          "title": "Release the: Meticulous Indri!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1118",
+          "state": "closed",
+          "updated": "2026-09-01T14:12:28Z",
+          "head": "changeset-release/main",
+          "headSha": "3732b65b399ab2ae05a63fa18844a8087b8fb59e"
+        },
+        {
+          "number": 1115,
+          "title": "Align swap widget fee naming and signed fee display",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1115",
+          "state": "closed",
+          "updated": "2026-09-01T14:03:42Z",
+          "head": "ted/int2-1322-align-swap-widget-fee-naming",
+          "headSha": "fa9be9606668dbc98c58e0721438d13d79e90b25"
+        },
+        {
+          "number": 1116,
+          "title": "fix(relay-kit): restrict URL signing to authorized MoonPay hosts in sign-url endpoint",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1116",
+          "state": "closed",
+          "updated": "2026-08-31T16:30:41Z",
+          "head": "magqqgq-patch-1",
+          "headSha": "62da01b8e4303baec511e6511fb50523cf78e1ad"
+        },
+        {
+          "number": 1110,
+          "title": "Build(deps): bump changesets/action from 1.9.0 to 2.1.0",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1110",
+          "state": "closed",
+          "updated": "2026-08-26T13:44:09Z",
+          "head": "dependabot/github_actions/changesets/action-2.1.0",
+          "headSha": "52f077c026db96f1b45b95613094aaf300cd6c55"
+        },
+        {
+          "number": 1113,
+          "title": "Release the: Kaleidoscopic Grasshopper!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1113",
+          "state": "closed",
+          "updated": "2026-08-25T14:37:27Z",
+          "head": "changeset-release/main",
+          "headSha": "2ca8cb39752749a3cfdc306ddc543655bbbbcd25"
+        },
+        {
+          "number": 1112,
+          "title": "Only show actual destination values once a request succeeds",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1112",
+          "state": "closed",
+          "updated": "2026-08-25T14:29:46Z",
+          "head": "ted/int2-1312-swap-widget-shows-wrong-output-before-request-success",
+          "headSha": "9b56cb7d20290ef1303090729ccb307faa23d67f"
+        },
+        {
+          "number": 1111,
+          "title": "Fix Eclipse swaps failing before signing and drop Backpack as an Eclipse wallet",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1111",
+          "state": "closed",
+          "updated": "2026-08-25T14:12:16Z",
+          "head": "ted/int2-1240-eclipse-swaps-fail-before-signing-with-backpack",
+          "headSha": "d509891bdcb76b5bfeeb21952e3e686b754c884a"
+        },
+        {
+          "number": 1107,
+          "title": "Build(deps): bump changesets/action from 1.9.0 to 2.0.0",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1107",
+          "state": "closed",
+          "updated": "2026-08-20T13:44:43Z",
+          "head": "dependabot/github_actions/changesets/action-2.0.0",
+          "headSha": "48c06324d72ba61359baf2f4bcec5fbeece9fd52"
+        },
+        {
+          "number": 1108,
+          "title": "Add changeset guidance and a quality floor",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1108",
+          "state": "closed",
+          "updated": "2026-08-19T20:47:21Z",
+          "head": "pedro/changeset-quality",
+          "headSha": "71f30b24ae6dbc288778b0e7aa79494d011364d4"
+        },
+        {
+          "number": 1106,
+          "title": "docs(changelog): Curate sample release entries",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1106",
+          "state": "closed",
+          "updated": "2026-08-14T22:01:00Z",
+          "head": "scout/curate-sample-changelog-entries",
+          "headSha": "2bd4e665b592bf14772e96568e66f128b3d8a60c"
+        },
+        {
+          "number": 1105,
+          "title": "Release the: Dashing Giant African Land Snail!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1105",
+          "state": "closed",
+          "updated": "2026-08-14T17:44:07Z",
+          "head": "changeset-release/main",
+          "headSha": "04654cc5103e5c5c8a2af5511dd338a91d4cd5b9"
+        },
+        {
+          "number": 1104,
+          "title": "Add XRP destination support",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1104",
+          "state": "closed",
+          "updated": "2026-08-14T17:37:37Z",
+          "head": "ted/int2-762-add-xrp-vm-support-across-sdk-core",
+          "headSha": "2fffba7dcce95232137b0c999a26ef040ae145d2"
+        },
+        {
+          "number": 1097,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.175 to 1.0.183",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1097",
+          "state": "open",
+          "updated": "2026-08-11T13:43:57Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.183",
+          "headSha": "430e65d88de98748a741fff70bc757aa6eae4ffe"
+        },
+        {
+          "number": 1100,
+          "title": "Release the: Unforgettable Aldabra Giant Tortoise!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1100",
+          "state": "closed",
+          "updated": "2026-08-04T19:18:26Z",
+          "head": "changeset-release/main",
+          "headSha": "1fabc2b2d1c279352bca0a4bb8cc797dd5f305e8"
+        },
+        {
+          "number": 1101,
+          "title": "Chore/sync sdk types",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1101",
+          "state": "closed",
+          "updated": "2026-08-04T19:09:06Z",
+          "head": "chore/sync-sdk-types",
+          "headSha": "3de242ec3b6290212f8be2afb3dd68018c31bae4"
+        },
+        {
+          "number": 1087,
+          "title": "Build(deps): bump actions/checkout from 7.0.0 to 7.0.1",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1087",
+          "state": "open",
+          "updated": "2026-08-03T20:51:18Z",
+          "head": "dependabot/github_actions/actions/checkout-7.0.1",
+          "headSha": "ff13a1b557212ad34574a9c0942254e8d03db6c4"
+        },
+        {
+          "number": 1099,
+          "title": "Update Uniswap Wallet supported chains",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1099",
+          "state": "closed",
+          "updated": "2026-08-03T20:43:38Z",
+          "head": "pedro/update-uniswap-wallet-supported-chains",
+          "headSha": "4f20c19e6c253972a5d0e73889d2f006c50ba668"
+        },
+        {
+          "number": 1098,
+          "title": "Normalize Uniswap Wallet connector name (INT2-1044)",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1098",
+          "state": "closed",
+          "updated": "2026-08-03T20:35:50Z",
+          "head": "pedro/int2-1044-relay-app-permits-unsupported-uniswap-origin-chain",
+          "headSha": "3dfd8fa5ec2b8dfe6315016059d9e052e4a07598"
+        },
+        {
+          "number": 1096,
+          "title": "Release the: Diligent Sparrow!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1096",
+          "state": "closed",
+          "updated": "2026-08-03T20:32:48Z",
+          "head": "changeset-release/main",
+          "headSha": "fb9eef0ceba9bad0658f96f9b659ad9364ca1a7d"
+        },
+        {
+          "number": 1094,
+          "title": "Normalize Uniswap Wallet connector name (INT2-1044)",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1094",
+          "state": "closed",
+          "updated": "2026-08-03T20:31:23Z",
+          "head": "pedro/int2-1044-relay-app-permits-unsupported-uniswap-origin-chain",
+          "headSha": "1861b1fe5b1bb2bd6e17a5eef7599386f527f265"
+        },
+        {
+          "number": 1095,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.175 to 1.0.182",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1095",
+          "state": "closed",
+          "updated": "2026-08-03T13:45:05Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.182",
+          "headSha": "f173bc67862d04e6d769c34d45f00331a920995f"
+        },
+        {
+          "number": 1093,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.175 to 1.0.181",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1093",
+          "state": "closed",
+          "updated": "2026-07-31T13:43:53Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.181",
+          "headSha": "6f5b6f06b4c82d873d0676eea06ac27898d727ae"
+        },
+        {
+          "number": 1092,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.175 to 1.0.180",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1092",
+          "state": "closed",
+          "updated": "2026-07-29T13:44:01Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.180",
+          "headSha": "db961eb08c34231c2666c9bd075d41efb6fe2064"
+        },
+        {
+          "number": 1090,
+          "title": "Release the: Spunky Ocelot!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1090",
+          "state": "closed",
+          "updated": "2026-07-28T14:33:02Z",
+          "head": "changeset-release/main",
+          "headSha": "a0e023ee7e9e725e1303ab3ffe7a7a22558f7807"
+        },
+        {
+          "number": 1066,
+          "title": "Migrate to codex from dune",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1066",
+          "state": "closed",
+          "updated": "2026-07-28T14:21:25Z",
+          "head": "pedro/int2-409-eng-relaykit-migrate-from-dune-to-codex",
+          "headSha": "7c4ec06b2095541958e0367f7ad4cbeed2fbe434"
+        },
+        {
+          "number": 1091,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.175 to 1.0.179",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1091",
+          "state": "closed",
+          "updated": "2026-07-28T13:44:00Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.179",
+          "headSha": "b9b5c044973e0ef705a0bc441c6a053a922a36ed"
+        },
+        {
+          "number": 1086,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.175 to 1.0.176",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1086",
+          "state": "closed",
+          "updated": "2026-07-27T13:45:33Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.176",
+          "headSha": "99a0caf075bb6f5eff3f103bd824f53c39118a84"
+        },
+        {
+          "number": 1089,
+          "title": "Restrict Robinhood Wallet to supported chains (INT2-991)",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1089",
+          "state": "closed",
+          "updated": "2026-07-24T18:55:36Z",
+          "head": "pedro/int2-991-set-wallet-restrictions-on-robinhood-wallet",
+          "headSha": "ba5c1a92686e28dcee2e9c6be8a41d262fa65318"
+        },
+        {
+          "number": 1085,
+          "title": "Release the: Zippy Royal Penguin!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1085",
+          "state": "closed",
+          "updated": "2026-07-24T18:20:33Z",
+          "head": "changeset-release/main",
+          "headSha": "b674e445dd76be82d5f1d7a720e106b7db8064a2"
+        },
+        {
+          "number": 1088,
+          "title": "Complete RefundReason error mapping",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1088",
+          "state": "closed",
+          "updated": "2026-07-24T18:13:32Z",
+          "head": "giselle/int2-735-update-relaykit-error-explanations",
+          "headSha": "fab08373a28338ec51ead17e9d1b70aab291147d"
+        },
+        {
+          "number": 1041,
+          "title": "Build(deps): bump actions/checkout from 6.0.3 to 7.0.0",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1041",
+          "state": "closed",
+          "updated": "2026-07-23T13:43:26Z",
+          "head": "dependabot/github_actions/actions/checkout-7.0.0",
+          "headSha": "f3ae3f55822bcd0ec0736ff78efefa52609c4033"
+        },
+        {
+          "number": 1082,
+          "title": "Build(deps): bump actions/setup-node from 6.4.0 to 7.0.0",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1082",
+          "state": "closed",
+          "updated": "2026-07-23T13:43:08Z",
+          "head": "dependabot/github_actions/actions/setup-node-7.0.0",
+          "headSha": "3e305ff441710010975ad63b46ba859c4194b460"
+        },
+        {
+          "number": 1078,
+          "title": "fix: block token contract addresses in recipient field",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1078",
+          "state": "closed",
+          "updated": "2026-07-22T15:25:32Z",
+          "head": "ted/int2-899-block-token-contracts-in-recipient-field",
+          "headSha": "9d76f7f6b8eb7bc0118697a8ca6c973ca0c12f7d"
+        },
+        {
+          "number": 1049,
+          "title": "fix(ui): fall back when token/chain logo image fails to load",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1049",
+          "state": "closed",
+          "updated": "2026-07-22T14:33:38Z",
+          "head": "fix/token-chain-icon-fallback",
+          "headSha": "6cca3e8a7a0651a4975cf476a74aec2d0d7e0ec1"
+        },
+        {
+          "number": 1084,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.175",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1084",
+          "state": "closed",
+          "updated": "2026-07-22T14:32:15Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.175",
+          "headSha": "5f3967b27d2960b19010c9fd2c7f8fb504c6491a"
+        },
+        {
+          "number": 1083,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.174",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1083",
+          "state": "closed",
+          "updated": "2026-07-22T13:44:26Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.174",
+          "headSha": "21864e86f5ef06d7d8932aa6d5b18a279b9c9963"
+        },
+        {
+          "number": 1076,
+          "title": "Release the: Kooky Chinese Crested Dog!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1076",
+          "state": "closed",
+          "updated": "2026-07-21T14:00:15Z",
+          "head": "changeset-release/main",
+          "headSha": "1693cf42ef7d59964ea0d8364d1decf1efcaedb4"
+        },
+        {
+          "number": 1081,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.171",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1081",
+          "state": "closed",
+          "updated": "2026-07-21T13:44:17Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.171",
+          "headSha": "8ae9ce058901d34ef8c6a008088722e5596e3f5a"
+        },
+        {
+          "number": 1069,
+          "title": "Migrate the Requests API from v2 to v3 (breaking)",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1069",
+          "state": "closed",
+          "updated": "2026-07-21T13:42:56Z",
+          "head": "ted/int2-432-relaykit-swap-requestsv2-for-requestsv3",
+          "headSha": "f2e1bd3341acdcf3fcd266fd0ce969bda811eff7"
+        },
+        {
+          "number": 1080,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.170",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1080",
+          "state": "closed",
+          "updated": "2026-07-20T13:45:41Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.170",
+          "headSha": "98c2780bad6100e668ffcef81aef62a971a4f4e3"
+        },
+        {
+          "number": 1079,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.169",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1079",
+          "state": "closed",
+          "updated": "2026-07-16T13:44:22Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.169",
+          "headSha": "8d2db74141212249f6564b64bca0aa0a908b7f51"
+        },
+        {
+          "number": 1077,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.167",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1077",
+          "state": "closed",
+          "updated": "2026-07-15T13:44:02Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.167",
+          "headSha": "1e420aa391f1086dcd77c9f070c7cd4aebbc87a1"
+        },
+        {
+          "number": 1075,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.166",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1075",
+          "state": "closed",
+          "updated": "2026-07-14T13:44:25Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.166",
+          "headSha": "188614b8a93ee8b104626c06bc127c1b28ecaa80"
+        },
+        {
+          "number": 1074,
+          "title": "fix: update wallet rejection errors in swap widget",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1074",
+          "state": "closed",
+          "updated": "2026-07-13T18:31:20Z",
+          "head": "ted/fix-ton-reject-tx-error",
+          "headSha": "ae78274ac8a890f8abb21a7aa6b2e595bad48854"
+        },
+        {
+          "number": 1071,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.165",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1071",
+          "state": "closed",
+          "updated": "2026-07-13T13:45:35Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.165",
+          "headSha": "a085d3b2ce4dcf5742337caaef750257d60c4801"
+        },
+        {
+          "number": 1073,
+          "title": "Release the: Loyal Seal!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1073",
+          "state": "closed",
+          "updated": "2026-07-10T17:14:12Z",
+          "head": "changeset-release/main",
+          "headSha": "30d60f44e3a04be13ae0df1a9b6e342b0ff552d9"
+        },
+        {
+          "number": 1072,
+          "title": "Prevent base wallet sends to robinhood that trap funds",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1072",
+          "state": "closed",
+          "updated": "2026-07-10T17:05:11Z",
+          "head": "pedro/int2-881-prevent-base-wallet-sends-to-robinhood-that-trap-funds",
+          "headSha": "b24b6e87f5545908f4dcac2a0a99c1244df9ce16"
+        },
+        {
+          "number": 1070,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.163",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1070",
+          "state": "closed",
+          "updated": "2026-07-10T13:44:11Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.163",
+          "headSha": "dbc0ef0b268ab2254d5f9097ac8db2c08f2f59f9"
+        },
+        {
+          "number": 1068,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.161 to 1.0.162",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1068",
+          "state": "closed",
+          "updated": "2026-07-09T13:44:31Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.162",
+          "headSha": "6babeeaf154bcd628c2ad616d310e27370833e64"
+        },
+        {
+          "number": 1065,
+          "title": "Release the: Noble Spadefoot Toad!",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1065",
+          "state": "closed",
+          "updated": "2026-07-08T13:39:37Z",
+          "head": "changeset-release/main",
+          "headSha": "14ca964070d5bd025b1b8df0259b86877d8c90af"
+        },
+        {
+          "number": 1067,
+          "title": "Hide chains without deposit-address support (incl. TON) from origin selector unless VM has wallet support",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1067",
+          "state": "closed",
+          "updated": "2026-07-08T13:15:09Z",
+          "head": "fix/from-selector-deposit-address-vms",
+          "headSha": "6298715514b44d021ff57fadd31e4c3d5ca8340b"
+        },
+        {
+          "number": 1059,
+          "title": "Use current USD values from quote responses",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1059",
+          "state": "closed",
+          "updated": "2026-07-07T16:51:40Z",
+          "head": "fix/quote-usd-current-values",
+          "headSha": "6fde1920256e4cfc95501b64809a822683d68c1e"
+        },
+        {
+          "number": 1019,
+          "title": "ci: use ubuntu-latest runner instead of blacksmith-4vcpu-ubuntu-2404",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1019",
+          "state": "closed",
+          "updated": "2026-07-07T15:52:30Z",
+          "head": "chore/replace-blacksmith-runner",
+          "headSha": "bec41f64ac7e90e6e20edd4e60762faf8483ec16"
+        },
+        {
+          "number": 946,
+          "title": "Add settled transaction callback to execute()",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/946",
+          "state": "closed",
+          "updated": "2026-07-07T14:00:03Z",
+          "head": "joseph/fe-7922-sdk-execute-method-returns-quoted-amount-instead-of-actual",
+          "headSha": "835ab2ae4189ace2fc4215d35669cd361e70e2a0"
+        },
+        {
+          "number": 1061,
+          "title": "fix: embed sourcesContent in published sourcemaps",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1061",
+          "state": "closed",
+          "updated": "2026-07-07T13:54:40Z",
+          "head": "fix/sourcemap-inline-sources",
+          "headSha": "727046f6c529ae24e36e55024f52c02f74f8febf"
+        },
+        {
+          "number": 1064,
+          "title": "Build(deps): bump anthropics/claude-code-action from 1.0.136 to 1.0.161",
+          "url": "https://github.com/relayprotocol/relay-kit/pull/1064",
+          "state": "closed",
+          "updated": "2026-07-07T13:54:14Z",
+          "head": "dependabot/github_actions/anthropics/claude-code-action-1.0.161",
+          "headSha": "a9fea1540f481a6c9a5c035fad99ab70f99b7d9e"
+        }
+      ]
+    },
+    {
+      "repo": "relayprotocol/relay-docs",
+      "status": 200,
+      "scope": "100 most recently updated PRs, all states; not all historical PRs",
+      "prs": [
+        {
+          "number": 528,
+          "title": "docs(api): add currencies v2 and token price v2 migration guides (INT2-1896)",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/528",
+          "state": "open",
+          "updated": "2026-10-27T01:48:59Z",
+          "head": "pedro/int2-1847-retire-config-v1-v2-token-price-v1-and-currencies-v1",
+          "headSha": "4d62ea0cd5995d18ece6f53fef10dc9f3fdeceaa"
+        },
+        {
+          "number": 529,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/529",
+          "state": "open",
+          "updated": "2026-10-26T19:27:44Z",
+          "head": "bot/changelog-sync",
+          "headSha": "7ab51fc4e0b2f6728ec2d8e9c0621e28e88a23d9"
+        },
+        {
+          "number": 527,
+          "title": "docs(security): expand wallet screening coverage on compliance page",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/527",
+          "state": "open",
+          "updated": "2026-10-26T14:38:03Z",
+          "head": "ted/int2-1381-update-compliance-docs-with-wallet-screening-additions",
+          "headSha": "749ad4c770986418f4e723359eb4c291c29469b5"
+        },
+        {
+          "number": 486,
+          "title": "docs: app-fee zero signal + fix stale Solana maxRouteLength guidance",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/486",
+          "state": "closed",
+          "updated": "2026-10-26T12:07:21Z",
+          "head": "giselle/int2-963-app-fee-min-solana-guidance",
+          "headSha": "ba952097ff1d5a95c7af3d90c3df5fb44f194792"
+        },
+        {
+          "number": 518,
+          "title": "docs: align request status docs with the enforced lifecycle",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/518",
+          "state": "closed",
+          "updated": "2026-10-24T12:26:40Z",
+          "head": "giselle/int2-1789-request-status-docs-do-not-match-the-enforced-lifecycle",
+          "headSha": "a67edbdf332dedc8bcf566d82625a1c264350e74"
+        },
+        {
+          "number": 499,
+          "title": "docs(api): document GET /currencies/classifications",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/499",
+          "state": "closed",
+          "updated": "2026-10-24T12:25:25Z",
+          "head": "giselle/int2-1663-currency-classifications-docs",
+          "headSha": "e5a33c54014e9c75d2e16e68928f9b46c5abd1dc"
+        },
+        {
+          "number": 496,
+          "title": "Document positive and negative swap costs",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/496",
+          "state": "open",
+          "updated": "2026-10-24T12:24:02Z",
+          "head": "ted/int2-1291-document-positive-and-negative-swap-costs",
+          "headSha": "64aa69a5291e1409455236eb2d734e9ee462b459"
+        },
+        {
+          "number": 514,
+          "title": "docs(deposit-addresses): require a signing wallet for refundTo and recoveryAddress",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/514",
+          "state": "open",
+          "updated": "2026-10-23T20:17:47Z",
+          "head": "docs/da-recovery-address-must-sign",
+          "headSha": "77862fb332ff700f531ada5959cff2c96762d8dd"
+        },
+        {
+          "number": 526,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/526",
+          "state": "closed",
+          "updated": "2026-10-23T16:46:58Z",
+          "head": "bot/changelog-sync",
+          "headSha": "6282d6b084cad3710050f251f9d37dddc0c7e2fa"
+        },
+        {
+          "number": 524,
+          "title": "docs(changelog): add the Apps v1 Dashboard entry (INT2-1863)",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/524",
+          "state": "closed",
+          "updated": "2026-10-23T16:10:51Z",
+          "head": "aj/int2-1863-dashboard-changelog-lacks-the-apps-v1-release",
+          "headSha": "49bf4a1229b51fad558d5921e95e277515c2a693"
+        },
+        {
+          "number": 525,
+          "title": "docs(api-keys): explain creating keys through Apps",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/525",
+          "state": "closed",
+          "updated": "2026-10-23T16:09:41Z",
+          "head": "pedro/api-keys-apps",
+          "headSha": "7d667715d2f787e7d9af3f35f9d96199566b68c9"
+        },
+        {
+          "number": 523,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/523",
+          "state": "closed",
+          "updated": "2026-10-22T14:23:02Z",
+          "head": "docs-drift/src-993a516b7a-8fb8c99",
+          "headSha": "60ddab41260a4404ff8fc23e663f8ed940195b04"
+        },
+        {
+          "number": 498,
+          "title": "docs(api): add routing integration models guide",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/498",
+          "state": "closed",
+          "updated": "2026-10-22T08:15:47Z",
+          "head": "giselle/int2-1677-routing-integration-models",
+          "headSha": "269e60956dc1faa97206ed09352c959b2cdb34c2"
+        },
+        {
+          "number": 522,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/522",
+          "state": "open",
+          "updated": "2026-10-21T19:34:52Z",
+          "head": "docs-drift/src-2676b863d5-bc6fafb",
+          "headSha": "e140cca62ce34d13145255232dd3dbb7b824c1bf"
+        },
+        {
+          "number": 521,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/521",
+          "state": "open",
+          "updated": "2026-10-21T16:25:50Z",
+          "head": "docs-drift/src-25ca9fc9ab-4a733c2",
+          "headSha": "c60aa0e3b86f489d9d90b003c36d3184db90ab49"
+        },
+        {
+          "number": 520,
+          "title": "docs(fees): cross-link the currency classifications endpoint",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/520",
+          "state": "open",
+          "updated": "2026-10-21T12:37:36Z",
+          "head": "giselle/fees-classifications-crosslink",
+          "headSha": "bc6caa2ee527df52e354e6b136437a2b4c19ff88"
+        },
+        {
+          "number": 519,
+          "title": "docs: fix websocket event name typo",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/519",
+          "state": "closed",
+          "updated": "2026-10-20T17:34:37Z",
+          "head": "docs/fix-websocket-event-typo",
+          "headSha": "f601ce201a73639b2ba372b021cb926f03886ea5"
+        },
+        {
+          "number": 472,
+          "title": "Clarify duplicate rewards, reporting expectations, and KYB requirements",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/472",
+          "state": "closed",
+          "updated": "2026-10-19T18:39:07Z",
+          "head": "docs/bounty-reporting-section",
+          "headSha": "b00844d822a2ad5ec2dbaeb654d8e30dd9f2d15d"
+        },
+        {
+          "number": 516,
+          "title": "docs: make balance-event accounting guidance discoverable",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/516",
+          "state": "closed",
+          "updated": "2026-10-19T15:27:02Z",
+          "head": "giselle/int2-1800-balance-event-accounting-guidance-is-hard-to-discover",
+          "headSha": "3ab726fe47b52c4c8879408c6ec0ed9d9f043b60"
+        },
+        {
+          "number": 517,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/517",
+          "state": "closed",
+          "updated": "2026-10-19T15:16:38Z",
+          "head": "bot/changelog-sync",
+          "headSha": "e5e0f73a54ee3281cb73ae5f9e02baa02cd42cea"
+        },
+        {
+          "number": 513,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/513",
+          "state": "closed",
+          "updated": "2026-10-19T15:09:33Z",
+          "head": "docs-drift/src-28d482f988-d5baa59",
+          "headSha": "9149426abc56dde7193b3e33f527d8cf6310b616"
+        },
+        {
+          "number": 515,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/515",
+          "state": "open",
+          "updated": "2026-10-16T16:01:49Z",
+          "head": "docs-drift/src-8f2f56a4d0-8c3fde1",
+          "headSha": "7bd2321e0927f0511f6c33f3d112268f81bce07a"
+        },
+        {
+          "number": 512,
+          "title": "docs(deposit-addresses): require a signing wallet for recoveryAddress",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/512",
+          "state": "closed",
+          "updated": "2026-10-15T22:57:52Z",
+          "head": "docs/da-recovery-address-must-sign",
+          "headSha": "61ece0d34b61e106dc90e89f1feae94912181559"
+        },
+        {
+          "number": 511,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/511",
+          "state": "closed",
+          "updated": "2026-10-14T21:09:41Z",
+          "head": "bot/changelog-sync",
+          "headSha": "0173d3de5bd0b77a4e712c99d4781193232415b5"
+        },
+        {
+          "number": 506,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/506",
+          "state": "closed",
+          "updated": "2026-10-14T21:08:18Z",
+          "head": "docs-drift/src-806c85555f-1b2c379",
+          "headSha": "24c12bcaef78655d70ebed3965427ebefa2047a9"
+        },
+        {
+          "number": 510,
+          "title": "docs(contracts): add the router 3.2 pair, migration notes and the MulticallAuthorization permit flow",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/510",
+          "state": "closed",
+          "updated": "2026-10-14T20:57:48Z",
+          "head": "theo/router-3-2-migration",
+          "headSha": "c663616f924ccf0d788d03c440ee0a9c66d4d5ae"
+        },
+        {
+          "number": 509,
+          "title": "docs(errors): suggest useV1Transaction for SOLANA_TX_TOO_LARGE",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/509",
+          "state": "closed",
+          "updated": "2026-10-13T21:07:54Z",
+          "head": "pedro/solana-tx-too-large-v1-hint",
+          "headSha": "cee3a8a4c6aa593c358255af26079967f5d85982"
+        },
+        {
+          "number": 508,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/508",
+          "state": "closed",
+          "updated": "2026-10-13T20:42:13Z",
+          "head": "docs-drift/src-faf399c979-96103c3",
+          "headSha": "919b206604851d487ef902cc0bfb51896a9eb8cf"
+        },
+        {
+          "number": 507,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/507",
+          "state": "closed",
+          "updated": "2026-10-13T18:44:05Z",
+          "head": "docs-drift/src-faf399c979-56964c4",
+          "headSha": "378589d5cd9c07f5d7d01ab96a98be017da582e5"
+        },
+        {
+          "number": 505,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/505",
+          "state": "closed",
+          "updated": "2026-10-13T14:47:29Z",
+          "head": "bot/changelog-sync",
+          "headSha": "f9afff94b1e695d4229db161b2c3cc0c4e632c16"
+        },
+        {
+          "number": 502,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/502",
+          "state": "closed",
+          "updated": "2026-10-13T14:41:43Z",
+          "head": "docs-drift/src-8afa4b07a5-8b400f2",
+          "headSha": "6f77001b5c6f246f923b5d1a007b25c9df6ce9e5"
+        },
+        {
+          "number": 484,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/484",
+          "state": "closed",
+          "updated": "2026-10-13T14:39:16Z",
+          "head": "docs-drift/src-aa153b3060-2d3471a",
+          "headSha": "44289ecaef5c63bef547bbea8172429925a0cc8a"
+        },
+        {
+          "number": 504,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/504",
+          "state": "closed",
+          "updated": "2026-10-13T14:26:33Z",
+          "head": "bot/changelog-sync",
+          "headSha": "04384737e5108b60eb79cb2a17d8afceb4f17615"
+        },
+        {
+          "number": 503,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/503",
+          "state": "closed",
+          "updated": "2026-10-13T12:43:03Z",
+          "head": "docs-drift/src-f692e2ee92-c0f2efc",
+          "headSha": "265d258ecb7cdab2e7eba6d2e4681b6c30fba923"
+        },
+        {
+          "number": 501,
+          "title": "docs: apply post-merge feedback on the Gasless Swaps Solana section",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/501",
+          "state": "closed",
+          "updated": "2026-10-10T11:34:30Z",
+          "head": "giselle/gasless-swaps-post-merge-feedback",
+          "headSha": "b30ee687e7105c98b1f3ccfcc3bee615d95c5918"
+        },
+        {
+          "number": 497,
+          "title": "docs(api): adds the Solana section to Gasless Swaps",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/497",
+          "state": "closed",
+          "updated": "2026-10-09T15:32:04Z",
+          "head": "giselle/int2-1451-solana-gasless-guide",
+          "headSha": "807e7f6dde9908c3beb7cc3d2025c11c79f49d74"
+        },
+        {
+          "number": 494,
+          "title": "docs(vaults): add onchain withdrawal guide for after UI retirement (DEC-1960)",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/494",
+          "state": "closed",
+          "updated": "2026-10-09T07:01:58Z",
+          "head": "claude/cool-ptolemy-tsr2q4",
+          "headSha": "6d965d96bdfcb8bdab5a611976b0a6c761db3a4a"
+        },
+        {
+          "number": 394,
+          "title": "Add deposit address marketing intro",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/394",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:42Z",
+          "head": "scout/MAR-1395-deposit-address-marketing",
+          "headSha": "c816f0bce52310837d0aab37432776d05cccac52"
+        },
+        {
+          "number": 393,
+          "title": "docs(fast-fill): add product introduction",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/393",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:41Z",
+          "head": "scout/MAR-1415-fast-fill-feature-page-intro",
+          "headSha": "21fc526db93097b3182fd135175dadd702955f7b"
+        },
+        {
+          "number": 392,
+          "title": "docs(features): add Gas Top-Up intro",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/392",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:41Z",
+          "head": "scout/MAR-1414-gas-top-up-feature-page-intro",
+          "headSha": "2728d28f78efd3d9319d65c428873157cfe51169"
+        },
+        {
+          "number": 391,
+          "title": "docs(fee-sponsorship): add product value overview",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/391",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:40Z",
+          "head": "scout/MAR-1396-fee-sponsorship-marketing",
+          "headSha": "e5f2532cf57a4651683fbce569d07c861d48f1ea"
+        },
+        {
+          "number": 390,
+          "title": "docs(gasless-swaps): add feature introduction",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/390",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:39Z",
+          "head": "scout/MAR-1413-gasless-swaps-feature-page-intro",
+          "headSha": "2e3b9265f8a065bf3c29553af46c9a16dc37ce63"
+        },
+        {
+          "number": 389,
+          "title": "docs(features): add Gasless Execution intro",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/389",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:38Z",
+          "head": "scout/MAR-1403-gasless-execution-feature-page",
+          "headSha": "24383093e4a10ed92d35c66aef129cb8c3e63f22"
+        },
+        {
+          "number": 388,
+          "title": "docs: rewrite What is Relay page (MAR-1412)",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/388",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:37Z",
+          "head": "scout/MAR-1412-what-is-relay-rewrite",
+          "headSha": "28022bccceb9ab37d473b73e537c05e4ab7a5340"
+        },
+        {
+          "number": 387,
+          "title": "docs(app-fees): add feature page intro",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/387",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:37Z",
+          "head": "scout/MAR-1411-app-fees-intro",
+          "headSha": "8e4fd944a8cf7bc968085f78966927329ddcd724"
+        },
+        {
+          "number": 386,
+          "title": "Refresh Price Stabilization page intro",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/386",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:36Z",
+          "head": "sian/mar-1430-price-stabilization-feature-page-intro",
+          "headSha": "209c8b48ef22487d623eba520315ce712e65b295"
+        },
+        {
+          "number": 380,
+          "title": "Add SLA feature page",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/380",
+          "state": "closed",
+          "updated": "2026-10-08T20:33:35Z",
+          "head": "scout/MAR-1404-sla-feature-page",
+          "headSha": "b138e76bae0203c3f870f3dd5696fbc2b7621ba4"
+        },
+        {
+          "number": 500,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/500",
+          "state": "closed",
+          "updated": "2026-10-08T20:04:19Z",
+          "head": "bot/changelog-sync",
+          "headSha": "8d9820e2fbde120912c3902a5085f4b121c225e6"
+        },
+        {
+          "number": 491,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/491",
+          "state": "closed",
+          "updated": "2026-10-08T20:02:38Z",
+          "head": "docs-drift/src-caa919ced1-fbf876c",
+          "headSha": "d96e4201c34a2a1be5f17f633c5b28390d8c536b"
+        },
+        {
+          "number": 495,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/495",
+          "state": "closed",
+          "updated": "2026-10-08T20:02:06Z",
+          "head": "docs-drift/src-2905baf98f-01132f3",
+          "headSha": "0a93b4e097ebc63c804662c68496196b95250ab8"
+        },
+        {
+          "number": 488,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/488",
+          "state": "closed",
+          "updated": "2026-10-08T19:51:44Z",
+          "head": "bot/changelog-sync",
+          "headSha": "e95e5d059b3beae7e538319fcee4f512fae5ee44"
+        },
+        {
+          "number": 493,
+          "title": "docs(api): add Get Balance Events reference (INT2-1467)",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/493",
+          "state": "closed",
+          "updated": "2026-10-06T18:56:35Z",
+          "head": "pedro/docs-balance-events-api",
+          "headSha": "beafa70138a47fd7c69682cdef8bec1716138157"
+        },
+        {
+          "number": 492,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/492",
+          "state": "closed",
+          "updated": "2026-10-06T15:41:23Z",
+          "head": "docs-drift/src-1bb78af349-d65786b",
+          "headSha": "716bd4b3c0a066ed4eb4c312246fd3ded6d80fd7"
+        },
+        {
+          "number": 479,
+          "title": "Flag Relay Vaults as out of scope for bounties",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/479",
+          "state": "closed",
+          "updated": "2026-10-05T13:58:25Z",
+          "head": "security/vaults-out-of-scope",
+          "headSha": "b1df8b6660b52593c894cd441f78434bcab67bf8"
+        },
+        {
+          "number": 462,
+          "title": "docs: add October 2 quote/v2 API key requirement callouts",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/462",
+          "state": "closed",
+          "updated": "2026-10-05T08:29:21Z",
+          "head": "docs/quote-v2-auth-callouts",
+          "headSha": "ec7e0a6844c2327bd1742cfa739af4be55a5e307"
+        },
+        {
+          "number": 490,
+          "title": "Add clarification on deposit address sweep minimum",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/490",
+          "state": "closed",
+          "updated": "2026-10-02T19:22:06Z",
+          "head": "ted/int2-1435-document-deposit-address-sweep-minimum",
+          "headSha": "411729577373db7503dd480b13e7f5d8370049af"
+        },
+        {
+          "number": 489,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/489",
+          "state": "closed",
+          "updated": "2026-10-02T17:27:55Z",
+          "head": "docs-drift/src-e94a2e1a61-b317de1",
+          "headSha": "0ff15805f18757ee51629cee25d317da27622558"
+        },
+        {
+          "number": 487,
+          "title": "docs(protocol): Safe Hub withdrawal walkthrough + ERC-1271 reconciliation",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/487",
+          "state": "closed",
+          "updated": "2026-10-02T14:56:53Z",
+          "head": "giselle/int2-1661-safe-hub-withdrawal-docs",
+          "headSha": "5c38a7c3d511b05e1a50149e5d2460ba0170a754"
+        },
+        {
+          "number": 485,
+          "title": "docs(api): document overridePriceImpact for SWAP_IMPACT_TOO_HIGH",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/485",
+          "state": "closed",
+          "updated": "2026-10-02T01:59:30Z",
+          "head": "giselle/int2-993-docs-overridepriceimpact",
+          "headSha": "1fdc160536d32d05e82b3887ffd49f488a7c0343"
+        },
+        {
+          "number": 483,
+          "title": "docs(fast-fill): clarify app balance collateral scope",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/483",
+          "state": "closed",
+          "updated": "2026-09-30T14:49:56Z",
+          "head": "ted/int2-1376-clarify-fast-fill-collateral-scope",
+          "headSha": "45a33dadbdbf69e33587ac8efd24ecfc80c04dcb"
+        },
+        {
+          "number": 482,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/482",
+          "state": "closed",
+          "updated": "2026-09-29T17:12:18Z",
+          "head": "bot/changelog-sync",
+          "headSha": "e526734bf0431501d9f7107010a62a78df3aa14c"
+        },
+        {
+          "number": 480,
+          "title": "docs(app-fees): clarify app balance claim costs and path",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/480",
+          "state": "closed",
+          "updated": "2026-09-29T17:11:55Z",
+          "head": "ted/int2-1526-app-fee-withdrawal-docs-misstate-claim-costs",
+          "headSha": "307afe165e45b2622acfc8543220509af1c1f349"
+        },
+        {
+          "number": 478,
+          "title": "docs(requests): explain sibling-key access on requests v3",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/478",
+          "state": "closed",
+          "updated": "2026-09-29T17:10:41Z",
+          "head": "docs/int2-1610-requests-v3-sibling-key-access",
+          "headSha": "110dc086ed06b3077d24f1d8c7843263b00b298b"
+        },
+        {
+          "number": 481,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/481",
+          "state": "closed",
+          "updated": "2026-09-29T16:37:44Z",
+          "head": "docs-drift/src-74886386f6-4f15778",
+          "headSha": "ca805c07835292437915ebc0bd7f0a82d42a2de1"
+        },
+        {
+          "number": 477,
+          "title": "Add unlisted Unified Balance use case guide",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/477",
+          "state": "closed",
+          "updated": "2026-09-28T17:15:49Z",
+          "head": "giselle/int2-1576-unified-balance-guide",
+          "headSha": "ae7b21a93315eb725660d1265500cfe309e29b7e"
+        },
+        {
+          "number": 476,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/476",
+          "state": "closed",
+          "updated": "2026-09-28T16:54:52Z",
+          "head": "bot/changelog-sync",
+          "headSha": "08f4f0514b6d5ef70c1f48f8aab01fe44af72a67"
+        },
+        {
+          "number": 470,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/470",
+          "state": "closed",
+          "updated": "2026-09-24T19:47:00Z",
+          "head": "docs-drift/src-3a69f9900e-e1412f4",
+          "headSha": "9a66d7dd3e3d06b255b8dcee69bcb6258552cc02"
+        },
+        {
+          "number": 475,
+          "title": "docs: clarify deposit-address request monitoring",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/475",
+          "state": "closed",
+          "updated": "2026-09-23T18:51:34Z",
+          "head": "pedro/int2-1520-clarify-deposit-address-request-monitoring",
+          "headSha": "eb633cbc1a3a6b1894231c7cb9c83673a7171cf2"
+        },
+        {
+          "number": 473,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/473",
+          "state": "closed",
+          "updated": "2026-09-23T18:09:29Z",
+          "head": "bot/changelog-sync",
+          "headSha": "14c6b85f18c64167d2d5b86a60db6b2b6ecebd96"
+        },
+        {
+          "number": 474,
+          "title": "docs: correct fee sponsorship coverage for swap costs and app fees",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/474",
+          "state": "closed",
+          "updated": "2026-09-22T18:12:34Z",
+          "head": "pedro/int2-395-document-fee-subsidization-and-swap-fee-coverage",
+          "headSha": "0a725812511b41a4da18bce66068d93d6395d943"
+        },
+        {
+          "number": 471,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/471",
+          "state": "closed",
+          "updated": "2026-09-22T17:21:20Z",
+          "head": "docs-drift/src-1451574930-432c627",
+          "headSha": "c72f9d5ed08a9c493ac320c80f42c96ee7c16b09"
+        },
+        {
+          "number": 466,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/466",
+          "state": "closed",
+          "updated": "2026-09-22T17:18:57Z",
+          "head": "docs-drift/src-2af8dbc907-fd8f972",
+          "headSha": "492e942dcbbd84eb4824773ae957b8e86bd8785e"
+        },
+        {
+          "number": 448,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/448",
+          "state": "closed",
+          "updated": "2026-09-22T17:17:04Z",
+          "head": "docs-drift/src-54db283871-7d0e058",
+          "headSha": "e05a26f14e6ff4c261f07ae7bc319e5436581404"
+        },
+        {
+          "number": 444,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/444",
+          "state": "open",
+          "updated": "2026-09-22T17:12:21Z",
+          "head": "docs-drift/src-49ad972807-d08bc9a",
+          "headSha": "0af183b238e9516de525a1b759d2d83c763d62ba"
+        },
+        {
+          "number": 469,
+          "title": "docs(changelog): add a Dashboard line and backfill it to the launch",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/469",
+          "state": "closed",
+          "updated": "2026-09-21T18:38:16Z",
+          "head": "pedro/int2-1288-backfill-dashboard-releases-to-the-master-changelog",
+          "headSha": "9926580059b7c756031f5199fb6e33fd97688fa2"
+        },
+        {
+          "number": 468,
+          "title": "ci: redeploy the docs hourly to refresh the API reference ",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/468",
+          "state": "closed",
+          "updated": "2026-09-21T15:12:20Z",
+          "head": "ted/int2-1058-sync-relay-api-reference-docs-hourly",
+          "headSha": "ab19c591d1d3b4892066031bdd865d3d1b3ba94c"
+        },
+        {
+          "number": 467,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/467",
+          "state": "closed",
+          "updated": "2026-09-17T12:55:19Z",
+          "head": "bot/changelog-sync",
+          "headSha": "c76bcfff8ed0f8f87a422723200f5ebf073139a0"
+        },
+        {
+          "number": 465,
+          "title": "ci: require Legal approval on Fee Structure doc changes",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/465",
+          "state": "closed",
+          "updated": "2026-09-15T13:27:40Z",
+          "head": "pedro/int2-1168-add-codeowners-to-fee-structure-doc",
+          "headSha": "810fba011bece0d4d150f614efaf6bd71bc3daa1"
+        },
+        {
+          "number": 464,
+          "title": "docs: clarify fixedRate and subsidizeFees are independent",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/464",
+          "state": "closed",
+          "updated": "2026-09-15T07:53:16Z",
+          "head": "pedro/docs-fixed-rate-subsidize-fees",
+          "headSha": "d3775f2f88a72b316a0212bde60c1e9f64d685c6"
+        },
+        {
+          "number": 460,
+          "title": "docs: clarify fixedRate and subsidizeFees are independent",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/460",
+          "state": "closed",
+          "updated": "2026-09-11T21:26:13Z",
+          "head": "pedro/docs-fixed-rate-subsidize-fees",
+          "headSha": "c91753f16029981b1b84c4654821eb31225694b0"
+        },
+        {
+          "number": 457,
+          "title": "docs(positioning): separate Relay platform and protocol",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/457",
+          "state": "closed",
+          "updated": "2026-09-11T18:27:25Z",
+          "head": "docs/platform-protocol-positioning",
+          "headSha": "35acad29761c46176fd30863f68b8fcab7bac1b8"
+        },
+        {
+          "number": 463,
+          "title": "docs: clarify per-VM address formats for getQuote user and recipient",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/463",
+          "state": "closed",
+          "updated": "2026-09-11T16:34:11Z",
+          "head": "docs/quote-address-formats",
+          "headSha": "1edf4cc8c5a1a2eb6d4c9b2985b9bc650e39f981"
+        },
+        {
+          "number": 461,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/461",
+          "state": "closed",
+          "updated": "2026-09-11T14:01:22Z",
+          "head": "docs-drift/src-985a82ed56-755cf4f",
+          "headSha": "fe5520781fe4b2fd85b6edb07c9491814765039f"
+        },
+        {
+          "number": 459,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/459",
+          "state": "closed",
+          "updated": "2026-09-11T12:15:55Z",
+          "head": "bot/changelog-sync",
+          "headSha": "0b92e724fe5ce0a1e06515c1a0775b861f6bf0bd"
+        },
+        {
+          "number": 458,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/458",
+          "state": "closed",
+          "updated": "2026-09-11T11:21:08Z",
+          "head": "docs-drift/src-e15d68398d-1d59089",
+          "headSha": "b15446abaf0cd7845d5140b1ca7f971a0319c14f"
+        },
+        {
+          "number": 449,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/449",
+          "state": "closed",
+          "updated": "2026-09-10T20:05:58Z",
+          "head": "docs-drift/src-6d18328241-c8de149",
+          "headSha": "12a652f0880a9b35a05ea2b9c1ac58c391ce8cfa"
+        },
+        {
+          "number": 456,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/456",
+          "state": "closed",
+          "updated": "2026-09-10T20:06:40Z",
+          "head": "docs-drift/src-4c98bc11a1-baefe2d",
+          "headSha": "9298f9d1e4211778520e350384ac199abec28fd6"
+        },
+        {
+          "number": 452,
+          "title": "docs: fix missing `userOp` declaration",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/452",
+          "state": "closed",
+          "updated": "2026-09-10T06:40:55Z",
+          "head": "patch-2",
+          "headSha": "c9e03592ee7037cfb14248e1a55dfb22dbcdbe7d"
+        },
+        {
+          "number": 455,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/455",
+          "state": "closed",
+          "updated": "2026-09-09T20:29:34Z",
+          "head": "bot/changelog-sync",
+          "headSha": "a2f34794ecee86f264d988072434843d0357e23b"
+        },
+        {
+          "number": 454,
+          "title": "docs: clarify same-chain gasless swap limitations (INT2-266)",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/454",
+          "state": "closed",
+          "updated": "2026-09-09T19:55:21Z",
+          "head": "pedro/int2-266-clarify-same-chain-gasless-swap-limitations",
+          "headSha": "f996b8662be60b343fe2d7499b333735a0c06da0"
+        },
+        {
+          "number": 453,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/453",
+          "state": "closed",
+          "updated": "2026-09-09T15:27:56Z",
+          "head": "bot/changelog-sync",
+          "headSha": "c72d39bbecfda2688dde949c6ce5a413ff5fc1c4"
+        },
+        {
+          "number": 451,
+          "title": "docs: quote requests with a referrer require an API key",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/451",
+          "state": "closed",
+          "updated": "2026-09-09T15:08:59Z",
+          "head": "docs/quote-referrer-api-key",
+          "headSha": "51f76aa35d0426c52959ca2c9b72ba286e15b02a"
+        },
+        {
+          "number": 447,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/447",
+          "state": "closed",
+          "updated": "2026-09-08T22:03:59Z",
+          "head": "bot/changelog-sync",
+          "headSha": "93b872a823046cf36493a3c1b71b76a7c3508f5e"
+        },
+        {
+          "number": 450,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/450",
+          "state": "closed",
+          "updated": "2026-09-08T21:57:36Z",
+          "head": "docs-drift/src-783edcf3d8-4d06006",
+          "headSha": "35a7ca10052d2901807074ff66608432a7bcaaa1"
+        },
+        {
+          "number": 445,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/445",
+          "state": "closed",
+          "updated": "2026-09-08T14:44:12Z",
+          "head": "docs-drift/src-7a3335d955-7fedbe0",
+          "headSha": "9aaf28ffd2a14d2679017fd99990a004079c483a"
+        },
+        {
+          "number": 446,
+          "title": "ci: gate Claude workflow on trusted author_association",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/446",
+          "state": "closed",
+          "updated": "2026-09-08T14:41:06Z",
+          "head": "pedro/int2-1409-vulnerability-in-docs-github-actions",
+          "headSha": "cd158851cb343e8b5cb697c6f90fcf6ea2524e1a"
+        },
+        {
+          "number": 442,
+          "title": "docs: sync changelog",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/442",
+          "state": "closed",
+          "updated": "2026-09-08T14:37:45Z",
+          "head": "bot/changelog-sync",
+          "headSha": "ead3673990f79abbfca7892c2bcd310c9791dea6"
+        },
+        {
+          "number": 443,
+          "title": "docs: Fix publishing instructions",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/443",
+          "state": "closed",
+          "updated": "2026-09-02T01:59:19Z",
+          "head": "chore/test-github-pr-auth",
+          "headSha": "bed1e699358f8399dfd5215786f84011d77124df"
+        },
+        {
+          "number": 440,
+          "title": "docs: apply review feedback to input validation guide",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/440",
+          "state": "closed",
+          "updated": "2026-09-02T01:42:22Z",
+          "head": "pedro/int2-1380-input-validation-review",
+          "headSha": "9b21c4a60c786b6ef905c3982ade8aa0bfa3314e"
+        },
+        {
+          "number": 438,
+          "title": "docs(drift): draft from internal source",
+          "url": "https://github.com/relayprotocol/relay-docs/pull/438",
+          "state": "closed",
+          "updated": "2026-09-01T23:11:32Z",
+          "head": "docs-drift/src-2203e69aef-f7cbd65",
+          "headSha": "b624b1d6522fbddf1b6e406dd71606da8fce1aae"
+        }
+      ]
+    },
+    {
+      "repo": "stargate-protocol/stargate-v2",
+      "status": 200,
+      "scope": "100 most recently updated PRs, all states; not all historical PRs",
+      "prs": [
+        {
+          "number": 608,
+          "title": "🛑 [shutdown] METIS in Ethereum mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/608",
+          "state": "open",
+          "updated": "2026-10-26T18:17:02Z",
+          "head": "ravina/metis-v2-asset-unwire-ethereum",
+          "headSha": "b721f96562d8e925fa2f97f886ca1a72e926f1a3"
+        },
+        {
+          "number": 603,
+          "title": "Pre-unwire Gravity, Camp, GOAT and Metis",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/603",
+          "state": "closed",
+          "updated": "2026-10-26T14:40:32Z",
+          "head": "deprecate/pre-unwire-batch-oct-30th-2026",
+          "headSha": "d9e3072b82410a10df97293b38127a91fd709c28"
+        },
+        {
+          "number": 606,
+          "title": "[DO NOT MERGE] 🛑 [shutdown] Metis, Gravity, GOAT and Camp mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/606",
+          "state": "closed",
+          "updated": "2026-10-26T12:39:10Z",
+          "head": "ravina/metis-v2-unwire-both",
+          "headSha": "660d0fbb0bb2579c84b64181aa757de7dc66ee46"
+        },
+        {
+          "number": 609,
+          "title": "[DO NOT MERGE] [Step 10.d/10.e] Move METIS to unwired_tokens on Ethereum",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/609",
+          "state": "closed",
+          "updated": "2026-10-23T20:00:36Z",
+          "head": "ravina/metis-v2-ethereum-unwired-tokens",
+          "headSha": "4bf9acfe19ef0c27ea7cbe61e5c70db51d179355"
+        },
+        {
+          "number": 612,
+          "title": "[DO NOT MERGE] [Step 9] 🛑 [shutdown] Remove Gravity, GOAT and Camp mainnet definitions",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/612",
+          "state": "closed",
+          "updated": "2026-10-23T20:00:33Z",
+          "head": "ravina/gcg-v2-remove-definitions",
+          "headSha": "f87cafdc9d8f16ab70d66f8624517b4efcc32db9"
+        },
+        {
+          "number": 611,
+          "title": "[DO NOT MERGE] [Step 6.a] Fully unwire Gravity, GOAT and Camp TokenMessaging and CreditMessaging",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/611",
+          "state": "closed",
+          "updated": "2026-10-23T20:00:30Z",
+          "head": "ravina/gcg-v2-unwire-both",
+          "headSha": "87173cb451a4b74e565d5983ce30f413f611dd1e"
+        },
+        {
+          "number": 610,
+          "title": "[DO NOT MERGE] [Step 12] 🛑 [shutdown] Remove Metis mainnet definitions",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/610",
+          "state": "closed",
+          "updated": "2026-10-23T20:00:28Z",
+          "head": "ravina/metis-v2-remove-definitions",
+          "headSha": "34e8e3cbf8791863fd427c2cb9ceb78519faabe3"
+        },
+        {
+          "number": 605,
+          "title": "Unwire deprecated peers in the same shutdown batch",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/605",
+          "state": "closed",
+          "updated": "2026-10-23T10:30:47Z",
+          "head": "fix/unwire-include-deprecated-peers",
+          "headSha": "83d198e2c8d957ced6b4bd02d275c5e34fad9e76"
+        },
+        {
+          "number": 604,
+          "title": "Fix Abstract ETH Treasurer allow-list configuration",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/604",
+          "state": "closed",
+          "updated": "2026-10-21T09:33:33Z",
+          "head": "claubv23/fix-abstract-treasurer-eth",
+          "headSha": "3577144bd9f6d3ae92973cb5cd6be9b340206ed2"
+        },
+        {
+          "number": 598,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/598",
+          "state": "open",
+          "updated": "2026-10-16T21:55:05Z",
+          "head": "changeset-release/main",
+          "headSha": "2bc41507d99cc218551fb0eba0fa266fdfa03f21"
+        },
+        {
+          "number": 602,
+          "title": "🧹   Remove not needed generated json",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/602",
+          "state": "closed",
+          "updated": "2026-10-16T19:59:19Z",
+          "head": "claubv23/remove-stale-gnetated-json-configs",
+          "headSha": "2d01a0a042538d784771acf58d78850856f6bd9d"
+        },
+        {
+          "number": 600,
+          "title": "🧹  🚌 Post bus deprecation cleanup",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/600",
+          "state": "closed",
+          "updated": "2026-10-16T19:59:18Z",
+          "head": "claubv23/post-bus-deprecation-cleanup",
+          "headSha": "c6e439bdfd714d34e561efa32b89412b2983053a"
+        },
+        {
+          "number": 599,
+          "title": "🛑 🚌 Deprecate bus  ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/599",
+          "state": "closed",
+          "updated": "2026-10-16T19:46:49Z",
+          "head": "deprecate-bus",
+          "headSha": "248c671ba624874ec1ec56dcaad9f5f4eb6b5a51"
+        },
+        {
+          "number": 596,
+          "title": "🛑 [shutdown] OAPP-3553 - Aurora mainnet, Gnosis mainnet, Lightlink mainnet and Taiko mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/596",
+          "state": "closed",
+          "updated": "2026-10-01T18:57:31Z",
+          "head": "deprecation/aurora-lightlink-gnosis-taiko",
+          "headSha": "b3e9693f5c5aca4397a2549953c8d387f4b39720"
+        },
+        {
+          "number": 597,
+          "title": "[BEVTP-1481]: Pin github actions",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/597",
+          "state": "closed",
+          "updated": "2026-09-29T10:38:12Z",
+          "head": "ravina/BEVTP-1481",
+          "headSha": "534fbe26a400d66ffc2868aa250e0460111d9c28"
+        },
+        {
+          "number": 592,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/592",
+          "state": "closed",
+          "updated": "2026-09-17T16:14:18Z",
+          "head": "changeset-release/main",
+          "headSha": "84e1de47b49fb53a14297b28763f2a5adb398cc6"
+        },
+        {
+          "number": 587,
+          "title": "📤 [deploy]  MemeCore Mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/587",
+          "state": "closed",
+          "updated": "2026-09-17T09:15:27Z",
+          "head": "deployments/memecore",
+          "headSha": "2fc1e32454bc747ee7c72d273161525634aa023d"
+        },
+        {
+          "number": 594,
+          "title": "🛑 [shutdown] OAPP-3493 - Superposition mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/594",
+          "state": "closed",
+          "updated": "2026-09-14T21:05:36Z",
+          "head": "deprecate/superposition",
+          "headSha": "0fb78eadfdbb717595c185a3793fefcb634cc637"
+        },
+        {
+          "number": 593,
+          "title": "[Docs] new asset support",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/593",
+          "state": "open",
+          "updated": "2026-09-07T12:04:50Z",
+          "head": "new-assets-support-docs",
+          "headSha": "bb429e32ab299b0350b1acbc7a1777d1cbfa4fdc"
+        },
+        {
+          "number": 589,
+          "title": "🤖  AI-harness: add skill for deployment and deprecation pr review",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/589",
+          "state": "closed",
+          "updated": "2026-09-07T11:31:43Z",
+          "head": "ai-harness/add-skill-for-deployment-and-deprecation-pr-review",
+          "headSha": "654f3ca9794eb75cfdb2c6d91ddb5f3233bc9b9b"
+        },
+        {
+          "number": 591,
+          "title": "🛑 [shutdown] Edu mainnet, Degen mainnet mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/591",
+          "state": "closed",
+          "updated": "2026-09-01T14:18:57Z",
+          "head": "shutdown/edu-degen-superposition",
+          "headSha": "0f8cdabcb6da52b459d5e641556c2e51cb123f6f"
+        },
+        {
+          "number": 590,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/590",
+          "state": "closed",
+          "updated": "2026-08-31T11:50:45Z",
+          "head": "changeset-release/main",
+          "headSha": "58b6d3dac826cdad7ef0a41769f8e301231a416f"
+        },
+        {
+          "number": 585,
+          "title": "📤 [deploy] OPN Mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/585",
+          "state": "closed",
+          "updated": "2026-08-28T18:00:35Z",
+          "head": "deployments/opn",
+          "headSha": "e2ff7fb9d889563da924ffc7861a7fa7f9ca2340"
+        },
+        {
+          "number": 555,
+          "title": "📤 [deploy] Rayls Mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/555",
+          "state": "closed",
+          "updated": "2026-08-28T15:13:14Z",
+          "head": "deployments/rayls",
+          "headSha": "f682770537a73cc4894006aa1a9cb747d9b05bb5"
+        },
+        {
+          "number": 586,
+          "title": "Update Horizen Native drop",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/586",
+          "state": "closed",
+          "updated": "2026-08-26T18:55:16Z",
+          "head": "fix/horizen-native-drop",
+          "headSha": "4ab2a2c34a70550a88ec58df650d60509984bb1e"
+        },
+        {
+          "number": 581,
+          "title": "🛑 [shutdown] Glue mainnet ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/581",
+          "state": "closed",
+          "updated": "2026-08-25T11:12:28Z",
+          "head": "shutdown/glue",
+          "headSha": "2163f08b1d693c1464c6b47f5a613963c5490989"
+        },
+        {
+          "number": 583,
+          "title": "🛑 [shutdown] Shimmer mainnet ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/583",
+          "state": "closed",
+          "updated": "2026-08-24T18:17:04Z",
+          "head": "shutdown/shimmer",
+          "headSha": "6044b999ba573876d99c39bea962a36068691f09"
+        },
+        {
+          "number": 582,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/582",
+          "state": "closed",
+          "updated": "2026-08-07T19:26:50Z",
+          "head": "changeset-release/main",
+          "headSha": "9ddc49e05e040a39e42676addb4de9b88a77497f"
+        },
+        {
+          "number": 580,
+          "title": "OAPP-2195 Remove unwire chain by eid script",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/580",
+          "state": "closed",
+          "updated": "2026-08-07T12:19:12Z",
+          "head": "clean/remove-unwire-chain-by-eid-script",
+          "headSha": "ecaecb44ce8250cc3194ca2143a87f2356ee185b"
+        },
+        {
+          "number": 577,
+          "title": "[OAPP-2193] feat: ommit configuration in chains that are sunset",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/577",
+          "state": "closed",
+          "updated": "2026-08-06T15:12:27Z",
+          "head": "feat/allow-full-unwire-sunset-chains",
+          "headSha": "13d39d50c0ad76fd18daae147a07d0def46f2222"
+        },
+        {
+          "number": 579,
+          "title": "🛑 [shutdown] OAPP-2190 Botanix mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/579",
+          "state": "closed",
+          "updated": "2026-08-04T22:09:31Z",
+          "head": "deprecate/botanix",
+          "headSha": "ed81bf689204f3aa4a00a1a6e5251c0f8055bba7"
+        },
+        {
+          "number": 576,
+          "title": "🛑 [shutdown] Rarible, Moonbeam and Moonriver mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/576",
+          "state": "closed",
+          "updated": "2026-07-24T12:10:40Z",
+          "head": "shutdown/rarible-moonbeam-moonriver",
+          "headSha": "736ef08db1d7639c43c4f9defe23c5d34bf8d449"
+        },
+        {
+          "number": 575,
+          "title": "[Docs] OAPP-1868 add chain deprecation runbooks",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/575",
+          "state": "closed",
+          "updated": "2026-07-23T16:27:40Z",
+          "head": "unwiring-docs-enhance",
+          "headSha": "1f3344e81662c7ed1ef3a606270835026f95226a"
+        },
+        {
+          "number": 567,
+          "title": "🛑 [shutdown] Glue mainnet ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/567",
+          "state": "closed",
+          "updated": "2026-07-21T13:06:48Z",
+          "head": "unwire-glue",
+          "headSha": "a5ede997f48913e6240aa5fa1fef577be4c85fcc"
+        },
+        {
+          "number": 523,
+          "title": "Sei paths unwiring ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/523",
+          "state": "closed",
+          "updated": "2026-07-21T13:06:45Z",
+          "head": "sei-unwiring",
+          "headSha": "07f1a7fb61bf404dffdb74447d1e8a4973a709a0"
+        },
+        {
+          "number": 574,
+          "title": "🛑 [shutdown] zkpolygon mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/574",
+          "state": "closed",
+          "updated": "2026-07-06T10:38:04Z",
+          "head": "shutdown/zkpolygon",
+          "headSha": "0ed6d3969749cee607e744edf62404b9b6923f06"
+        },
+        {
+          "number": 573,
+          "title": "🛑 [shutdown] Glue mainnet  Phase 1 ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/573",
+          "state": "closed",
+          "updated": "2026-07-03T12:35:24Z",
+          "head": "shutdown/glue-phase1",
+          "headSha": "a6e4c48d7bc1326b9d2a1fc9331a5772457dd203"
+        },
+        {
+          "number": 572,
+          "title": "Bump Polygon bus gas limit",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/572",
+          "state": "closed",
+          "updated": "2026-07-02T11:42:13Z",
+          "head": "oapp-1840-polygon-bus-gas-limit",
+          "headSha": "9d72d25f9685622e63e1fbd896878b62daa3e660"
+        },
+        {
+          "number": 569,
+          "title": "feat: enhance messaging unwire scripts",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/569",
+          "state": "closed",
+          "updated": "2026-07-02T11:18:58Z",
+          "head": "fix/update-unwirescript-to-set-deaddvn-based-on-path",
+          "headSha": "1584c556ace89601c05383f8395723b021d8bb4c"
+        },
+        {
+          "number": 571,
+          "title": "🛑 [shutdown] Swell mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/571",
+          "state": "closed",
+          "updated": "2026-06-26T15:37:18Z",
+          "head": "shutdown/swell",
+          "headSha": "cd074f60e51d799fee32ea46cf4bec4a2b13a271"
+        },
+        {
+          "number": 570,
+          "title": "Bump Polygon bus gas limit",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/570",
+          "state": "closed",
+          "updated": "2026-06-25T14:54:18Z",
+          "head": "oapp-1840-polygon-bus-gas-limit",
+          "headSha": "66e5e7eb9def1c483a33fbba36d5c3892a9d4cc1"
+        },
+        {
+          "number": 568,
+          "title": "🛑 [shutdown] Swell mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/568",
+          "state": "closed",
+          "updated": "2026-06-25T14:54:05Z",
+          "head": "shutdown/swell",
+          "headSha": "cd074f60e51d799fee32ea46cf4bec4a2b13a271"
+        },
+        {
+          "number": 566,
+          "title": "🛑 [shutdown] USDT and USDC in Sei mainnet ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/566",
+          "state": "closed",
+          "updated": "2026-06-22T11:58:14Z",
+          "head": "unwire-sei-usdt-usdc",
+          "headSha": "dc30352ab4a17ac4511233e4eb6701efa07c67a0"
+        },
+        {
+          "number": 562,
+          "title": "Add unpeer to unwire logic",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/562",
+          "state": "closed",
+          "updated": "2026-06-19T10:03:30Z",
+          "head": "add-unpeer-to-unwire-logic",
+          "headSha": "3050755f2e5022113834a1f24369bbe7cb4ed8e0"
+        },
+        {
+          "number": 565,
+          "title": "feat: allow defining the max msg size limit per path",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/565",
+          "state": "closed",
+          "updated": "2026-06-16T20:11:57Z",
+          "head": "allow-define-max-msg-size-per-path",
+          "headSha": "2ce1c4682ecb9c8ae5c28a70035943bda59f8c20"
+        },
+        {
+          "number": 564,
+          "title": "Create SECURITY.md for security policy",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/564",
+          "state": "closed",
+          "updated": "2026-06-12T12:46:07Z",
+          "head": "patch-1",
+          "headSha": "90d72418dab97a09a8953343c5299bb64e9db248"
+        },
+        {
+          "number": 42,
+          "title": "🧹 Stargate state snapshot: Add connections and missing properties [8/N]",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/42",
+          "state": "closed",
+          "updated": "2026-06-12T12:45:05Z",
+          "head": "snapshot--002",
+          "headSha": "ec7f93cd63b0ffd8e0b89c3d637bf6982a7cd039"
+        },
+        {
+          "number": 138,
+          "title": "🧹 Use larger runner for mainnet config",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/138",
+          "state": "closed",
+          "updated": "2026-06-12T12:45:01Z",
+          "head": "larger-runner",
+          "headSha": "ea7a4d7aac93db6ceb3b7cbab351b78755f278a3"
+        },
+        {
+          "number": 146,
+          "title": "Quote View Function for OFTWrapper",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/146",
+          "state": "closed",
+          "updated": "2026-06-12T12:44:54Z",
+          "head": "view-wrapper",
+          "headSha": "53c10e08dad798b02fa9fb6cc64473a013981a3e"
+        },
+        {
+          "number": 561,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/561",
+          "state": "closed",
+          "updated": "2026-06-03T13:35:05Z",
+          "head": "changeset-release/main",
+          "headSha": "159be6da58f9e0590a3f65fa02b90e1108cdfc93"
+        },
+        {
+          "number": 560,
+          "title": "feat: deploy mintable burnable credit messaging to Ethereum",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/560",
+          "state": "closed",
+          "updated": "2026-06-03T12:01:25Z",
+          "head": "deploy-new-cm",
+          "headSha": "29aa18155381816f7949fb885cd9c6b9c9740775"
+        },
+        {
+          "number": 424,
+          "title": "⚙️ 📤 [config - deploy] ZKConsensys mainnet USDC pool ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/424",
+          "state": "closed",
+          "updated": "2026-06-03T10:01:06Z",
+          "head": "zkconsensys-add-usdc",
+          "headSha": "2fab1b1cc8d2e9cb09c6e31b4e6fc774986e1629"
+        },
+        {
+          "number": 249,
+          "title": "Deploy/abs",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/249",
+          "state": "closed",
+          "updated": "2026-06-03T10:01:02Z",
+          "head": "deploy/abs",
+          "headSha": "30382949c34da99064a9a33851f8fffb978adefb"
+        },
+        {
+          "number": 453,
+          "title": "fix: configure testnet pipeline",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/453",
+          "state": "closed",
+          "updated": "2026-06-03T10:01:00Z",
+          "head": "fix-confgure-testnet-pipeline",
+          "headSha": "773f2ce05167bee13d3177b6d798b1683a2dae8f"
+        },
+        {
+          "number": 505,
+          "title": "Remove unwire references",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/505",
+          "state": "closed",
+          "updated": "2026-06-03T10:00:59Z",
+          "head": "remove-unwire-references",
+          "headSha": "a3992ae98c058d7cdcce8a5a42afc9d2b83a92ee"
+        },
+        {
+          "number": 525,
+          "title": "Closed",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/525",
+          "state": "closed",
+          "updated": "2026-06-03T10:00:53Z",
+          "head": "add-docs",
+          "headSha": "fca2e900303877565d439bcbe45a6a7799e6745a"
+        },
+        {
+          "number": 543,
+          "title": "feat: update script to pin explicitly the default lib",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/543",
+          "state": "closed",
+          "updated": "2026-06-03T10:00:52Z",
+          "head": "feat/pin-send-receive-lib",
+          "headSha": "e37cfa35863ad70ff16848784fe0437bfddb1cf7"
+        },
+        {
+          "number": 532,
+          "title": "feat: add CreditMessagingMintableBurnable for emergency credit recovery",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/532",
+          "state": "closed",
+          "updated": "2026-06-03T09:58:03Z",
+          "head": "feat/min-burn-credits",
+          "headSha": "96c81c6e6edce8edbaca0e8a190b10542097169b"
+        },
+        {
+          "number": 549,
+          "title": "🛡️🔒 feat: pin send receive lib to 302",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/549",
+          "state": "closed",
+          "updated": "2026-05-27T20:54:51Z",
+          "head": "feat/pin-send-receive-lib-to-302",
+          "headSha": "66d5670491193210b0b1ad99c9cfecbc3ab6f889"
+        },
+        {
+          "number": 559,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/559",
+          "state": "closed",
+          "updated": "2026-05-27T20:04:35Z",
+          "head": "changeset-release/main",
+          "headSha": "f401ef91993feb09b389d76b0a75e1da2548e20f"
+        },
+        {
+          "number": 558,
+          "title": "Deploy WETH on Rayls",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/558",
+          "state": "closed",
+          "updated": "2026-05-27T19:41:59Z",
+          "head": "ravina/rayls-weth",
+          "headSha": "c2fcb04121d12e317f396dcc65ef74f209dd50ed"
+        },
+        {
+          "number": 552,
+          "title": "Validation for pinned message libraries",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/552",
+          "state": "closed",
+          "updated": "2026-05-27T13:37:57Z",
+          "head": "ravina/validate-pinned-libs",
+          "headSha": "cdd664e84a32c63e30d3741dc9f3dc6f5ed762c0"
+        },
+        {
+          "number": 557,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/557",
+          "state": "closed",
+          "updated": "2026-05-26T19:14:51Z",
+          "head": "changeset-release/main",
+          "headSha": "1681b10131ab7a1f624b5d819ef8fbd25ca49315"
+        },
+        {
+          "number": 554,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/554",
+          "state": "closed",
+          "updated": "2026-05-22T23:12:18Z",
+          "head": "changeset-release/main",
+          "headSha": "5926a697d05ebdc271085cb89966dad77ac1cf28"
+        },
+        {
+          "number": 553,
+          "title": "Disabling bus for ault",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/553",
+          "state": "closed",
+          "updated": "2026-05-20T22:11:31Z",
+          "head": "ravina/disable-bus-ault",
+          "headSha": "a6ffc6d5e6539c6d87ab0c40cf1db1c39f20a8f5"
+        },
+        {
+          "number": 546,
+          "title": "🛠️ Add propose to onesig and multisig hardhat task",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/546",
+          "state": "closed",
+          "updated": "2026-05-13T19:36:00Z",
+          "head": "feat/propose-tx-task",
+          "headSha": "9a0e937293ef62e4c622f001b7322cf7c28be7d2"
+        },
+        {
+          "number": 551,
+          "title": "🐞 Fixing concurrency issue causing intermittent build failures",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/551",
+          "state": "closed",
+          "updated": "2026-05-12T10:58:50Z",
+          "head": "ravina/build-concurrency-fix",
+          "headSha": "ff6e30e0bf3b676767e3768995cb7d68c7bc249d"
+        },
+        {
+          "number": 550,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/550",
+          "state": "closed",
+          "updated": "2026-05-12T02:10:31Z",
+          "head": "changeset-release/main",
+          "headSha": "30ea6098921d8da10a336ba0c67e92fa5e8ded83"
+        },
+        {
+          "number": 537,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/537",
+          "state": "closed",
+          "updated": "2026-05-12T01:10:18Z",
+          "head": "changeset-release/main",
+          "headSha": "404803d8c5c67abb36f3fa31c9ae75d50c6cfcfe"
+        },
+        {
+          "number": 540,
+          "title": "🛡️🔒 feat: add Canary DVN",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/540",
+          "state": "closed",
+          "updated": "2026-05-11T21:12:37Z",
+          "head": "feat/updte-dvn-config",
+          "headSha": "8f0a85ba9163e24569a69cd69caea58bf5ca423d"
+        },
+        {
+          "number": 545,
+          "title": "validating default libs are expected (302) before explicitly setting …",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/545",
+          "state": "closed",
+          "updated": "2026-05-11T20:08:09Z",
+          "head": "ravina/validate-message-lib-version",
+          "headSha": "57f4eada08bc9d0be5df5247f776aafb2631d843"
+        },
+        {
+          "number": 548,
+          "title": "📤 [deploy] SubtensorEVM & Ault Mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/548",
+          "state": "closed",
+          "updated": "2026-05-11T19:25:15Z",
+          "head": "deployments/subtensorevm-and-ault",
+          "headSha": "c0380f7014797fc9b90971a046ef5950c436f17e"
+        },
+        {
+          "number": 547,
+          "title": "Ai/harness engineering",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/547",
+          "state": "closed",
+          "updated": "2026-05-11T15:29:47Z",
+          "head": "ai/harness-engineering",
+          "headSha": "ecceb9d7000ea113645eec841d66b8f28444423c"
+        },
+        {
+          "number": 538,
+          "title": "fix: support comma-separated NEW_CHAIN without duplicating cross-new-chain edges",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/538",
+          "state": "closed",
+          "updated": "2026-04-29T18:12:58Z",
+          "head": "ravina/fix-dupe-txs",
+          "headSha": "a5388437dc7efee36c7d62e9c42a0e68758fdc27"
+        },
+        {
+          "number": 544,
+          "title": "enhance: Add helper functions to remove dupes",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/544",
+          "state": "closed",
+          "updated": "2026-04-28T20:38:46Z",
+          "head": "add-helper-func",
+          "headSha": "5e5fc3bf99a40ce090ee0d31f3786732d5609c78"
+        },
+        {
+          "number": 534,
+          "title": "Feat: add withdraw treasury fee script",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/534",
+          "state": "closed",
+          "updated": "2026-04-28T19:41:19Z",
+          "head": "feat/add-withdraw-treasury-fee-script",
+          "headSha": "f3c204ccf6c36735e2fb9cf1c2e6ea02e730cdf8"
+        },
+        {
+          "number": 541,
+          "title": "Revert \"📤 [deploy] SubtensorEVM & Ault Mainnet\"",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/541",
+          "state": "closed",
+          "updated": "2026-04-27T22:18:56Z",
+          "head": "revert-536-deployments/subtensorevm-and-ault",
+          "headSha": "a182f42d66d353b45b2e8406011b157652424dd5"
+        },
+        {
+          "number": 539,
+          "title": "updating docs to link to vt api contracts",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/539",
+          "state": "closed",
+          "updated": "2026-04-27T21:14:05Z",
+          "head": "ravina/update-docs",
+          "headSha": "481c9fdfa44c349cf40eacf9d70d317d2bf3402b"
+        },
+        {
+          "number": 542,
+          "title": "feat: skip tests",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/542",
+          "state": "closed",
+          "updated": "2026-04-27T21:00:48Z",
+          "head": "fix/skip-tests-that-use-rpcs",
+          "headSha": "afac467eaa70c7f30c2f74774779c60c64f9dfab"
+        },
+        {
+          "number": 536,
+          "title": "📤 [deploy] SubtensorEVM & Ault Mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/536",
+          "state": "closed",
+          "updated": "2026-04-26T03:23:16Z",
+          "head": "deployments/subtensorevm-and-ault",
+          "headSha": "89da2cde6d171781b446e022149e9e2f8d9367e7"
+        },
+        {
+          "number": 524,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/524",
+          "state": "closed",
+          "updated": "2026-04-08T15:55:25Z",
+          "head": "changeset-release/main",
+          "headSha": "754e2f5064de71c0da245b0be8fcc368244d34ab"
+        },
+        {
+          "number": 535,
+          "title": "Update reusable-publish.yaml to resolve publish workflow for environment-scoped secrets",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/535",
+          "state": "closed",
+          "updated": "2026-04-08T10:41:57Z",
+          "head": "0x4C756B65/secrets-environment-gate",
+          "headSha": "15d63cd2e53e232d7898de11f769485e48a6e6f0"
+        },
+        {
+          "number": 530,
+          "title": "📤 [deploy] Gensyn Mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/530",
+          "state": "closed",
+          "updated": "2026-04-06T16:58:48Z",
+          "head": "deployments/gensyn",
+          "headSha": "dff77f27c5dabc949033f33b6b6d57d2061c8c0e"
+        },
+        {
+          "number": 531,
+          "title": "deployment skill enhance ",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/531",
+          "state": "closed",
+          "updated": "2026-03-27T10:34:51Z",
+          "head": "deployment-skill-enhance",
+          "headSha": "f8e5c829be35c12d5e29f9b1cda06e982db5955a"
+        },
+        {
+          "number": 529,
+          "title": "Feat: Bera set custom dvn config",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/529",
+          "state": "closed",
+          "updated": "2026-03-24T18:16:26Z",
+          "head": "feat/bera-custom-dvn-config",
+          "headSha": "93f22e5ab1ae145f7c4617389fb33d46d152fd85"
+        },
+        {
+          "number": 528,
+          "title": "Claude new chain deployment skill",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/528",
+          "state": "closed",
+          "updated": "2026-03-21T08:49:14Z",
+          "head": "claude-new-chain-deployment-skill",
+          "headSha": "adc9a607c718040579000d0b40a040291eaeed01"
+        },
+        {
+          "number": 527,
+          "title": "fix: tempo gas Limit",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/527",
+          "state": "open",
+          "updated": "2026-03-03T16:11:41Z",
+          "head": "fix-tempo-gas-limit",
+          "headSha": "7f3679eb909177e01b6b959269bd0e3aeabc88df"
+        },
+        {
+          "number": 197,
+          "title": "Improve Readability in nonReentrantAndNotPaused() modifier",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/197",
+          "state": "closed",
+          "updated": "2026-03-03T14:49:57Z",
+          "head": "main",
+          "headSha": "a770b8bb8b3adc0bc773518130ae2284c7045741"
+        },
+        {
+          "number": 384,
+          "title": "chore: fix some minor issues in comments",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/384",
+          "state": "closed",
+          "updated": "2026-03-02T16:25:13Z",
+          "head": "main",
+          "headSha": "316abbf50d98580795ed09fc2f3e0f0ea2766473"
+        },
+        {
+          "number": 526,
+          "title": "add credit-system.md to docs",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/526",
+          "state": "closed",
+          "updated": "2026-02-26T15:15:04Z",
+          "head": "docs/credit-system",
+          "headSha": "6ce8567629531100cb21c562a4a49bd5ed2f7956"
+        },
+        {
+          "number": 520,
+          "title": "Update Bera - Ethereum DVN config",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/520",
+          "state": "closed",
+          "updated": "2026-02-25T16:27:43Z",
+          "head": "bera-dvn-config",
+          "headSha": "2c3a569a8ca4d0accd66ad2cce6e180a9a469b9f"
+        },
+        {
+          "number": 514,
+          "title": "Fix to avoid 2 proposal bundles",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/514",
+          "state": "closed",
+          "updated": "2026-02-25T15:55:35Z",
+          "head": "ravina/one-proposal",
+          "headSha": "1510687a42a3ecfc44e3067779b28839118de125"
+        },
+        {
+          "number": 516,
+          "title": "Bump protocol-devtools-evm version",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/516",
+          "state": "closed",
+          "updated": "2026-02-25T13:36:43Z",
+          "head": "use-latest-devtools-evm-version",
+          "headSha": "037549f0d0b477ca97be1f211e5ec81e9e35e34c"
+        },
+        {
+          "number": 515,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/515",
+          "state": "closed",
+          "updated": "2026-02-25T10:27:12Z",
+          "head": "changeset-release/main",
+          "headSha": "c1cd16c97aabf94d64e803fa00a3a190a2f0bd62"
+        },
+        {
+          "number": 522,
+          "title": "InjectiveEVM gas limit",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/522",
+          "state": "closed",
+          "updated": "2026-02-25T00:31:21Z",
+          "head": "ravina/increase-gas-limit",
+          "headSha": "dbcfddf5db75504e767526d8c7486b1955372dc8"
+        },
+        {
+          "number": 521,
+          "title": "double gas limit for injective",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/521",
+          "state": "closed",
+          "updated": "2026-02-24T22:41:06Z",
+          "head": "ravina/increase-injective-gas-limit",
+          "headSha": "967a54971ad352718e2ce54d5217e4b7d1a1c80c"
+        },
+        {
+          "number": 518,
+          "title": "⚙️ [config] Moca mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/518",
+          "state": "closed",
+          "updated": "2026-02-24T21:47:55Z",
+          "head": "ravina/moca-config",
+          "headSha": "7cacc5b8be0b31f4499416827ad3020439a0b25d"
+        },
+        {
+          "number": 517,
+          "title": "Throw warning for disabled bus",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/517",
+          "state": "closed",
+          "updated": "2026-02-23T20:30:25Z",
+          "head": "ravina/skip-bus-disabled-chains-quotes-check",
+          "headSha": "4013555d5cabc83ab191d62eb9bbb9ab7f68f35a"
+        },
+        {
+          "number": 519,
+          "title": "feat: increase peak gas limit for bus by 20k",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/519",
+          "state": "closed",
+          "updated": "2026-02-23T16:10:03Z",
+          "head": "increase-gaslimit-for-peaq",
+          "headSha": "0896814e9fcd39085ac8d81af7231a42661d967d"
+        },
+        {
+          "number": 510,
+          "title": "⚙️ [config] InjectiveEVM mainnet",
+          "url": "https://github.com/stargate-protocol/stargate-v2/pull/510",
+          "state": "closed",
+          "updated": "2026-02-21T00:30:26Z",
+          "head": "ravina/injective-evm",
+          "headSha": "abf690e10b3398a2811571da81dfbd60c4f03235"
+        }
+      ]
+    },
+    {
+      "repo": "LayerZero-Labs/LayerZero-v2",
+      "status": 200,
+      "scope": "100 most recently updated PRs, all states; not all historical PRs",
+      "prs": [
+        {
+          "number": 224,
+          "title": "chore(deps): bump ghcr.io/devcontainers/features/docker-in-docker from 2.17.0 to 3.1.0",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/224",
+          "state": "closed",
+          "updated": "2026-06-29T08:23:09Z",
+          "head": "dependabot/devcontainers/ghcr.io/devcontainers/features/docker-in-docker-3.1.0",
+          "headSha": "e1ee2fa081d404a8d3fb9dd5b6cdc427d5ec57f3"
+        },
+        {
+          "number": 225,
+          "title": "chore(deps): bump ghcr.io/devcontainers/features/docker-in-docker from 2.17.0 to 4.0.0",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/225",
+          "state": "open",
+          "updated": "2026-06-29T08:23:03Z",
+          "head": "dependabot/devcontainers/ghcr.io/devcontainers/features/docker-in-docker-4.0.0",
+          "headSha": "0088d5bd2a26605e83c15955a091024e9d681ef0"
+        },
+        {
+          "number": 216,
+          "title": "chore(deps): bump ghcr.io/devcontainers/features/docker-in-docker from 2.17.0 to 3.0.1",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/216",
+          "state": "closed",
+          "updated": "2026-06-22T08:23:19Z",
+          "head": "dependabot/devcontainers/ghcr.io/devcontainers/features/docker-in-docker-3.0.1",
+          "headSha": "b4cc6ba70bfb42be519946aee224ec565265f1de"
+        },
+        {
+          "number": 214,
+          "title": "docs: add bug bounty program with scope, rewards, and reporting guidelines",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/214",
+          "state": "closed",
+          "updated": "2026-06-06T02:01:50Z",
+          "head": "main",
+          "headSha": "51e4cd97b0c0838387164d3105e4869928cf63a6"
+        },
+        {
+          "number": 218,
+          "title": "chore(sui): update contracts for current Sui framework",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/218",
+          "state": "open",
+          "updated": "2026-06-01T05:18:12Z",
+          "head": "chore/update-sui-coin-registry",
+          "headSha": "aaf3569c8262aef09931543585da2d57e9b688a8"
+        },
+        {
+          "number": 215,
+          "title": "chore(deps): bump ghcr.io/devcontainers/features/docker-in-docker from 2.17.0 to 3.0.0",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/215",
+          "state": "closed",
+          "updated": "2026-05-25T12:21:39Z",
+          "head": "dependabot/devcontainers/ghcr.io/devcontainers/features/docker-in-docker-3.0.0",
+          "headSha": "cc4f99515b28c95b734276b50ebf5cce028bbb2a"
+        },
+        {
+          "number": 205,
+          "title": "Fix: addExecutorLzReadOption doesnt exist in OptionsBuilder.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/205",
+          "state": "open",
+          "updated": "2026-03-25T12:51:37Z",
+          "head": "fix-v2-201",
+          "headSha": "14a707088f7d4c290be9c2920739c88571d41d16"
+        },
+        {
+          "number": 198,
+          "title": "Fix typos in txnContext.fc: duplicate 'and' and misspelled 'overridden'",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/198",
+          "state": "closed",
+          "updated": "2026-03-17T05:33:57Z",
+          "head": "fix/typo-txncontext-and-and-overridden",
+          "headSha": "48e00af02191c5310775869eaebbc32ae85f056d"
+        },
+        {
+          "number": 197,
+          "title": "Fix typo: 'overriden' to 'overridden' in OFTCore.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/197",
+          "state": "closed",
+          "updated": "2026-03-17T05:33:57Z",
+          "head": "fix/typo-oftcore-overridden",
+          "headSha": "249a47d1295183a1812aa7f5acd84ba4ea1f163c"
+        },
+        {
+          "number": 194,
+          "title": "Fix typo: remove duplicate 'the' in UlnOptions.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/194",
+          "state": "closed",
+          "updated": "2026-03-17T05:33:57Z",
+          "head": "fix/typo-uln-options-the-the",
+          "headSha": "846d5c6493f104dc210250daef6dd8be5b77f268"
+        },
+        {
+          "number": 196,
+          "title": "Fix typo: remove duplicate 'to' in executor_fee_lib.move",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/196",
+          "state": "closed",
+          "updated": "2026-03-17T05:33:56Z",
+          "head": "fix/typo-executor-fee-lib-to-to",
+          "headSha": "ec9bbd78078bee464898d61b1b16ee10717c87ab"
+        },
+        {
+          "number": 195,
+          "title": "Fix typo: 'up the the' to 'up to the' in IOFT.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/195",
+          "state": "closed",
+          "updated": "2026-03-17T05:33:56Z",
+          "head": "fix/typo-ioft-up-to-the",
+          "headSha": "60370486a736779035a733952d51094263ecdbb6"
+        },
+        {
+          "number": 199,
+          "title": "Fix typo: 'shoud' to 'should' in contract_identity_tests.move",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/199",
+          "state": "closed",
+          "updated": "2026-03-17T05:33:55Z",
+          "head": "fix/typo-contract-identity-should",
+          "headSha": "2e5934cc0769c6c566a26b32c889c7db50e51d17"
+        },
+        {
+          "number": 204,
+          "title": "fix: remove ManagingRefs from code_object address in destroy_refs",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/204",
+          "state": "open",
+          "updated": "2026-03-06T10:49:08Z",
+          "head": "main",
+          "headSha": "4fad87d50b409b6cb58241fdacd6087e033fca18"
+        },
+        {
+          "number": 202,
+          "title": "fix(initia): sync modules",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/202",
+          "state": "closed",
+          "updated": "2026-02-27T07:56:33Z",
+          "head": "fix/initia-admin-move-sync-with-mainnet",
+          "headSha": "ae80e19a7ea4b448b8b9313639ea68b8f4cea0b8"
+        },
+        {
+          "number": 200,
+          "title": "fix(initia): sync modules",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/200",
+          "state": "closed",
+          "updated": "2026-02-27T07:49:07Z",
+          "head": "fix/initia-admin-move-sync-with-mainnet",
+          "headSha": "2cd6d3e671945ee17a848299ab3300fd65b9a990"
+        },
+        {
+          "number": 178,
+          "title": "Chore: upgrade Anchor to 0.32.1",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/178",
+          "state": "closed",
+          "updated": "2026-02-24T02:04:12Z",
+          "head": "feat/anchor-0.32.1",
+          "headSha": "37a2235e825fff94bca1774ab30d6823b727cb18"
+        },
+        {
+          "number": 193,
+          "title": "Claude/audit contract vulnerabilities uc dos",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/193",
+          "state": "closed",
+          "updated": "2026-01-22T06:56:45Z",
+          "head": "claude/audit-contract-vulnerabilities-ucDOS",
+          "headSha": "559ee22af57f04d6a4ea20997e4913a5d3df91ba"
+        },
+        {
+          "number": 190,
+          "title": "docs: add deepwiki json for better generation",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/190",
+          "state": "open",
+          "updated": "2025-12-16T21:35:20Z",
+          "head": "krak/deepwiki-json",
+          "headSha": "069bd879ae5ffa078ce57afbc78315eff96d7f98"
+        },
+        {
+          "number": 189,
+          "title": "Create hola.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/189",
+          "state": "closed",
+          "updated": "2025-12-08T00:55:34Z",
+          "head": "patch-1",
+          "headSha": "72e8a9eef6b8a6f6e80668637d83d3aff4b6d1e1"
+        },
+        {
+          "number": 188,
+          "title": "Update Move.toml",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/188",
+          "state": "open",
+          "updated": "2025-11-27T01:12:49Z",
+          "head": "patch-1",
+          "headSha": "4bf33211152f5afce8c814d66bb0c7f2a74743ef"
+        },
+        {
+          "number": 187,
+          "title": "Update Move.lock with dependency revisions",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/187",
+          "state": "open",
+          "updated": "2025-11-27T00:05:58Z",
+          "head": "patch-1",
+          "headSha": "c0684e6a6a0dfcd85644620021ad4b860ef4f492"
+        },
+        {
+          "number": 186,
+          "title": "Update devcontainer.json",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/186",
+          "state": "open",
+          "updated": "2025-11-24T23:33:50Z",
+          "head": "patch-1",
+          "headSha": "57d96a94338328ca09d59513ec39ff8fb2bd7d40"
+        },
+        {
+          "number": 185,
+          "title": "Update Move.toml",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/185",
+          "state": "open",
+          "updated": "2025-11-24T23:13:19Z",
+          "head": "patch-1",
+          "headSha": "eb0965a048ca2bfbe2dcdcf63822faa6f4528bf6"
+        },
+        {
+          "number": 184,
+          "title": "Refactor package.json to use Yarn commands",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/184",
+          "state": "open",
+          "updated": "2025-11-24T22:29:05Z",
+          "head": "patch-1",
+          "headSha": "be7982abc72c4f6a1253a850eb11dd2f173e5c68"
+        },
+        {
+          "number": 183,
+          "title": "Update LICENSE-MIT",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/183",
+          "state": "open",
+          "updated": "2025-11-24T21:32:28Z",
+          "head": "patch-1",
+          "headSha": "3918aedad3129b6dd0e766ecb1ca49b597721fe9"
+        },
+        {
+          "number": 182,
+          "title": "Update foundry.toml",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/182",
+          "state": "open",
+          "updated": "2025-11-23T23:43:27Z",
+          "head": "patch-1",
+          "headSha": "71ad65196e112347a845178cf939293f8e380736"
+        },
+        {
+          "number": 180,
+          "title": "Update funding.json",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/180",
+          "state": "open",
+          "updated": "2025-11-23T21:47:27Z",
+          "head": "patch-1",
+          "headSha": "4dda1e6dd67960255d5801d78cc1594573e31460"
+        },
+        {
+          "number": 175,
+          "title": "Add Independent Slither Security Audit Report for LayerZero Contracts",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/175",
+          "state": "closed",
+          "updated": "2025-11-11T11:07:09Z",
+          "head": "security-audit/slither-report",
+          "headSha": "e9f33041a79e9e688fee5cba2535dd0fc81283d8"
+        },
+        {
+          "number": 177,
+          "title": "Update IOTA lock file",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/177",
+          "state": "closed",
+          "updated": "2025-11-08T02:09:52Z",
+          "head": "iota/common-oft",
+          "headSha": "e2958f55d07b1c8fe2299e7571ae03a4d2a1029f"
+        },
+        {
+          "number": 176,
+          "title": "IOTA L1 Contracts",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/176",
+          "state": "closed",
+          "updated": "2025-11-07T06:01:07Z",
+          "head": "iota/code",
+          "headSha": "cfeed74533c72555f97fde762b967de7733a54a7"
+        },
+        {
+          "number": 170,
+          "title": "Update SUI contract code",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/170",
+          "state": "closed",
+          "updated": "2025-10-17T03:48:49Z",
+          "head": "sui/update-code",
+          "headSha": "1516763fc4ba3f57feef42b61bc2a9ace8ee6ad1"
+        },
+        {
+          "number": 169,
+          "title": "Solana: clarify V2 receive/compose docs ",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/169",
+          "state": "closed",
+          "updated": "2025-10-08T17:40:38Z",
+          "head": "chore/update-solana-comment",
+          "headSha": "d0d06b8037c842a4240d818926377e3d9774a13d"
+        },
+        {
+          "number": 152,
+          "title": "Feat(Solana): Implement `LzReceiveTypes V2` with Multi-Instruction and ALT Support",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/152",
+          "state": "closed",
+          "updated": "2025-10-02T08:32:28Z",
+          "head": "feat/solana-lzreceive-v2",
+          "headSha": "93a458c09bd398b4c0fce69e5838243faef559e5"
+        },
+        {
+          "number": 167,
+          "title": "issue with blocks",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/167",
+          "state": "open",
+          "updated": "2025-09-30T07:08:08Z",
+          "head": "main",
+          "headSha": "95cd1ba1df756874abbf5265240e902b8e9d37eb"
+        },
+        {
+          "number": 165,
+          "title": "Create rust.yml",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/165",
+          "state": "closed",
+          "updated": "2025-09-18T04:42:09Z",
+          "head": "main",
+          "headSha": "b12a3dfcf6b38dfef73fb69d489e716303434fa9"
+        },
+        {
+          "number": 163,
+          "title": "Update Sui Move.toml",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/163",
+          "state": "closed",
+          "updated": "2025-09-16T16:21:38Z",
+          "head": "sui/update-toml-files",
+          "headSha": "b03adc64ada524a249ef737df5ced00999d6c428"
+        },
+        {
+          "number": 164,
+          "title": "Update Move.lock and Move.toml files",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/164",
+          "state": "closed",
+          "updated": "2025-09-16T04:54:16Z",
+          "head": "sui/update-toml",
+          "headSha": "1afcc94cc82ff88c870af59e4da313f55a3e076f"
+        },
+        {
+          "number": 161,
+          "title": "Update Sui Move.toml",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/161",
+          "state": "closed",
+          "updated": "2025-09-16T04:14:44Z",
+          "head": "sui/update-move-toml",
+          "headSha": "e72d52b8bfa931e0768324b3399105efb2933ce9"
+        },
+        {
+          "number": 162,
+          "title": "Update Move.lock and Move.toml files for endpoint-ptb-builder and msg-ptb-builder",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/162",
+          "state": "closed",
+          "updated": "2025-09-16T03:29:37Z",
+          "head": "sui/update-toml",
+          "headSha": "cb3996943b97353486b7cc898cdd038334b1d90d"
+        },
+        {
+          "number": 160,
+          "title": "Update Move.lock of  Utils and PtbMoveCall",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/160",
+          "state": "closed",
+          "updated": "2025-09-16T00:27:00Z",
+          "head": "sui/update-depedencies",
+          "headSha": "c590e0e793d22ea999f0609624879212e1c1ee55"
+        },
+        {
+          "number": 159,
+          "title": "Sui protocol code",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/159",
+          "state": "closed",
+          "updated": "2025-09-15T22:34:43Z",
+          "head": "sui-vm",
+          "headSha": "1a2c0169af5276b4b0eb51185ed03c9b8805a4cd"
+        },
+        {
+          "number": 92,
+          "title": "use structs in testhelper to reduce stack size",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/92",
+          "state": "closed",
+          "updated": "2025-08-18T13:08:33Z",
+          "head": "test-helper-structs",
+          "headSha": "760bac25326e33344bc3c79be666c35e19d0e407"
+        },
+        {
+          "number": 155,
+          "title": "feat: upgrade Solana programs to Anchor 0.31.1",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/155",
+          "state": "closed",
+          "updated": "2025-08-14T03:54:22Z",
+          "head": "anchor-0.31.1",
+          "headSha": "1cf58c1f75318d0c88a86258ab3be1a98375d26d"
+        },
+        {
+          "number": 158,
+          "title": "Update LICENSE-MIT",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/158",
+          "state": "open",
+          "updated": "2025-08-10T15:08:33Z",
+          "head": "patch-1",
+          "headSha": "d2c6c9aba69b0c14a6c6aeff01cef838fd01d155"
+        },
+        {
+          "number": 157,
+          "title": "fix: correct typos in endpoint_v2 comments",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/157",
+          "state": "open",
+          "updated": "2025-07-30T15:37:39Z",
+          "head": "main",
+          "headSha": "5d6173ff798cb0c7504558a7c065ad85368f8878"
+        },
+        {
+          "number": 156,
+          "title": "docs(solana): add new entry to program hash table in verify-contracts.md",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/156",
+          "state": "open",
+          "updated": "2025-07-27T12:39:52Z",
+          "head": "lin",
+          "headSha": "ea89ba0acaa7725ba9ff0ce5dabd6458c21bda25"
+        },
+        {
+          "number": 150,
+          "title": "fix(oapp): Pass initialOwner to Ownable constructor in OAppCore",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/150",
+          "state": "open",
+          "updated": "2025-07-27T09:24:54Z",
+          "head": "fix/oapp-core-constructor",
+          "headSha": "168a3e65760514ffcdf20567032274c0f6f3bb03"
+        },
+        {
+          "number": 153,
+          "title": "Feat(Solana): Implement LzReceiveTypes V2 with Multi-Instruction and ALT Support",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/153",
+          "state": "closed",
+          "updated": "2025-07-24T02:49:14Z",
+          "head": "feat/solana-lzreceive-v2",
+          "headSha": "4d17c7b986e85a10ea0b1ec36d769d609968bbd4"
+        },
+        {
+          "number": 136,
+          "title": "Sync DVN Program: Add extend_dvn_config instruction",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/136",
+          "state": "closed",
+          "updated": "2025-07-24T00:19:36Z",
+          "head": "gilbert/feat/extend-dvn-account-size",
+          "headSha": "80bb6bb59202c94198f31c219de3f3c853095916"
+        },
+        {
+          "number": 154,
+          "title": "[Fix] TON example base oapp",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/154",
+          "state": "closed",
+          "updated": "2025-07-19T02:21:40Z",
+          "head": "fix-ton-base",
+          "headSha": "c08ed5689042b42e517edf7f077afee4f3c4c0fc"
+        },
+        {
+          "number": 151,
+          "title": "plz ignore",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/151",
+          "state": "closed",
+          "updated": "2025-06-06T15:24:22Z",
+          "head": "codex/run-forge-tests",
+          "headSha": "55bb5819a678c7bfdf3395f5d82481ae013004b9"
+        },
+        {
+          "number": 147,
+          "title": "chore: rename subfolder to oft-legacy",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/147",
+          "state": "closed",
+          "updated": "2025-05-20T09:32:42Z",
+          "head": "rename-for-solana-oft-legacy",
+          "headSha": "1d7ecd2f6b31c30604c92a3983b497b06dc177bf"
+        },
+        {
+          "number": 149,
+          "title": "ignore",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/149",
+          "state": "closed",
+          "updated": "2025-05-16T00:36:11Z",
+          "head": "fixMultipleInheritance",
+          "headSha": "2b02f1d94090627fca09718e8dd5a8153b258779"
+        },
+        {
+          "number": 148,
+          "title": "feature: add upgradeability to omnichain apps",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/148",
+          "state": "closed",
+          "updated": "2025-05-08T23:42:37Z",
+          "head": "feature/add-upgradeability-to-omnichain-apps",
+          "headSha": "2e583817421d4c5d65fd6cda9b7f014463532079"
+        },
+        {
+          "number": 146,
+          "title": "docs: Discord link replaced",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/146",
+          "state": "open",
+          "updated": "2025-04-29T10:32:14Z",
+          "head": "patch-1",
+          "headSha": "ed72b4f7cdb7d81abe3e11e1eff2cfd2528c14f0"
+        },
+        {
+          "number": 145,
+          "title": "Fix typos: Correct \"becuase\" to \"because\" in comments",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/145",
+          "state": "open",
+          "updated": "2025-04-26T09:57:20Z",
+          "head": "main",
+          "headSha": "d8de6476b2784cd1b8564075753f827bf4e08280"
+        },
+        {
+          "number": 132,
+          "title": "smol typo",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/132",
+          "state": "closed",
+          "updated": "2025-04-03T17:39:57Z",
+          "head": "patch-1",
+          "headSha": "07e0dcf752bed4a3699229c49af6501867a42a2b"
+        },
+        {
+          "number": 142,
+          "title": "updating worker peripherals and removing old move-vm-ofts from repo",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/142",
+          "state": "closed",
+          "updated": "2025-03-06T19:58:28Z",
+          "head": "removing-old-move-vm-ofts",
+          "headSha": "84231ceeb0e090ea5941ed8ad88e7b2379065a55"
+        },
+        {
+          "number": 131,
+          "title": "Aptos v2 Core Protocol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/131",
+          "state": "open",
+          "updated": "2025-02-16T21:15:19Z",
+          "head": "aptos-v2-jan-6",
+          "headSha": "780bdc5b414671be8287e07b0221185621f31488"
+        },
+        {
+          "number": 133,
+          "title": "Adding new changes to Aptos V2 protocol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/133",
+          "state": "closed",
+          "updated": "2025-02-16T21:13:57Z",
+          "head": "aptos-v2-jan-16",
+          "headSha": "7c8eddfd3a2942c567da16034430a61e5bd58466"
+        },
+        {
+          "number": 124,
+          "title": "Initial commit",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/124",
+          "state": "open",
+          "updated": "2025-02-15T14:31:47Z",
+          "head": "codespace-congenial-goldfish-69r49vp7677r2494v",
+          "headSha": "2b3d5fa6bf820f1d34cebc4c88a58a3fbfba3212"
+        },
+        {
+          "number": 140,
+          "title": "Ton protocol code",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/140",
+          "state": "closed",
+          "updated": "2025-02-14T00:05:46Z",
+          "head": "riley/ton",
+          "headSha": "0b57df867e13be611f5aa520ef215dad3709aaee"
+        },
+        {
+          "number": 139,
+          "title": "devcontainer.json: Irshad Gopang",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/139",
+          "state": "open",
+          "updated": "2025-02-13T20:00:46Z",
+          "head": "patch-1",
+          "headSha": "8fd836eec3268b143e974d070fcbda10f3aa39a2"
+        },
+        {
+          "number": 137,
+          "title": "link- Update TransparentUpgradeableProxy.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/137",
+          "state": "open",
+          "updated": "2025-02-10T13:21:06Z",
+          "head": "fix-link",
+          "headSha": "600d12d4b2eb08c09d2d1571ea89d0fab35e3fac"
+        },
+        {
+          "number": 116,
+          "title": "Update dvn code",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/116",
+          "state": "closed",
+          "updated": "2025-02-05T10:34:30Z",
+          "head": "gilbert/sync-dvn",
+          "headSha": "fcaff2ada04c10c0712629710c36687feca14d83"
+        },
+        {
+          "number": 120,
+          "title": "chore:  redirect folks to devtools for oft/oapp reference implementations",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/120",
+          "state": "closed",
+          "updated": "2025-01-22T10:05:45Z",
+          "head": "chore/redirect_oft_and_oapp_to_devtools",
+          "headSha": "41d381ef856f549f6337754602edb1c0b5d7478b"
+        },
+        {
+          "number": 18,
+          "title": "remove audit folder. add the link in readme",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/18",
+          "state": "closed",
+          "updated": "2024-12-21T06:57:42Z",
+          "head": "audit-link",
+          "headSha": "7a86d0c24a959a6b89bf72690f89514c58a58d40"
+        },
+        {
+          "number": 128,
+          "title": "Sync with endpoint_cpi",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/128",
+          "state": "closed",
+          "updated": "2024-12-05T04:02:18Z",
+          "head": "gilbert/sync-endpoint-cpi",
+          "headSha": "199c109b5c429a806a7e647bc72d0acc9c1fda1c"
+        },
+        {
+          "number": 127,
+          "title": "docs: update dev comment for quoteOFT",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/127",
+          "state": "closed",
+          "updated": "2024-11-22T08:31:55Z",
+          "head": "nazreen/quote-oft-nat-spec",
+          "headSha": "e1c287555a258aca27e2d15e995c509408cfd011"
+        },
+        {
+          "number": 123,
+          "title": "`ILayerZeroEndpointV2.delegates()` view",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/123",
+          "state": "open",
+          "updated": "2024-11-15T00:08:21Z",
+          "head": "patch-1",
+          "headSha": "cfe478df342d107fb93c1de99743da8a1b829839"
+        },
+        {
+          "number": 119,
+          "title": "Update devcontainer.json",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/119",
+          "state": "closed",
+          "updated": "2024-11-11T02:55:27Z",
+          "head": "patch-2",
+          "headSha": "8bddb3ecf085c81b0e0026e08dbd8935da949307"
+        },
+        {
+          "number": 121,
+          "title": "Sync ReadLib",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/121",
+          "state": "closed",
+          "updated": "2024-11-11T02:54:13Z",
+          "head": "ReadLib",
+          "headSha": "54a0d3838a1fefc9acc3bf5ffca8010ce7ec47dc"
+        },
+        {
+          "number": 118,
+          "title": "chore:  update instructions and commit hashes for programs",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/118",
+          "state": "closed",
+          "updated": "2024-10-27T15:41:30Z",
+          "head": "chore/clean-verification-steps",
+          "headSha": "5543c66979baab38ff6a59dc31b179ef1d1a136a"
+        },
+        {
+          "number": 109,
+          "title": "Add Solana OFTv1 Deprecation Notice",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/109",
+          "state": "closed",
+          "updated": "2024-10-18T02:01:36Z",
+          "head": "chore/solana_deprecation_notice",
+          "headSha": "4d777ac483abb44a32d185e1f31e45afb184b2ee"
+        },
+        {
+          "number": 115,
+          "title": "doc: update the commit for executor",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/115",
+          "state": "closed",
+          "updated": "2024-10-17T06:40:47Z",
+          "head": "gx/update-commit-of-executor",
+          "headSha": "9a69f9894d75034996eee83b5185894dad27469e"
+        },
+        {
+          "number": 114,
+          "title": "doc: update program hash of executor",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/114",
+          "state": "closed",
+          "updated": "2024-10-17T06:36:42Z",
+          "head": "gx/update-program-hash-of-executor",
+          "headSha": "fa062b8f3dfae0b7da1b5c25d75b4e0e1bef0e14"
+        },
+        {
+          "number": 112,
+          "title": "doc: update program hash of uln",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/112",
+          "state": "closed",
+          "updated": "2024-10-16T14:06:52Z",
+          "head": "gx/update-program-hash-of-uln",
+          "headSha": "ddee230dd73febef6babdae9a3546b0c6e07b16d"
+        },
+        {
+          "number": 110,
+          "title": "doc: instructions for verifying Solana contracts",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/110",
+          "state": "closed",
+          "updated": "2024-10-16T13:30:36Z",
+          "head": "gx/doc-for-verifying-solana-contracts",
+          "headSha": "4a06332838e82610ddfd53e01747110b9b1bf786"
+        },
+        {
+          "number": 111,
+          "title": "doc: update program hash",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/111",
+          "state": "closed",
+          "updated": "2024-10-16T13:30:22Z",
+          "head": "gx/update-program-hash",
+          "headSha": "ce70e76313b2ff726fcddda4c1335cccc98ef1fc"
+        },
+        {
+          "number": 104,
+          "title": "chore:  update EVM Executor reference implementation",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/104",
+          "state": "closed",
+          "updated": "2024-10-10T13:42:32Z",
+          "head": "chore/update_executor_reference_implementation",
+          "headSha": "bd83eaa0ff10acc7827b1436b10e9c4a7d6ddf7a"
+        },
+        {
+          "number": 108,
+          "title": "chore: upgrade workflow to use devcon:1.1.4-bookworm",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/108",
+          "state": "closed",
+          "updated": "2024-10-09T10:01:05Z",
+          "head": "gx/upgrade-lint-build-workflow",
+          "headSha": "99fdd856804da7bfded3107ffb1dfc05de3774f5"
+        },
+        {
+          "number": 82,
+          "title": "fix: ToSD() uint64 conversion check",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/82",
+          "state": "closed",
+          "updated": "2024-10-09T09:51:03Z",
+          "head": "main",
+          "headSha": "9f22adf637e7c8499e4ff3fc5f22ee570b02dcae"
+        },
+        {
+          "number": 62,
+          "title": "Patch: add in missing @param and @return annotation tags in EndpointV2.sol.",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/62",
+          "state": "closed",
+          "updated": "2024-10-09T09:49:39Z",
+          "head": "missing-tags-patch",
+          "headSha": "3dc135d03a7bd74277f569f0e2b54953c481dfa5"
+        },
+        {
+          "number": 45,
+          "title": "Update OmniCounterPreCrime.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/45",
+          "state": "closed",
+          "updated": "2024-10-09T09:49:12Z",
+          "head": "patch-1",
+          "headSha": "640b9ab2ce0caa180f7f5578217912fb7730ea2c"
+        },
+        {
+          "number": 68,
+          "title": "Update ICCIPDVNAdapter.sol - Fix Chainlink CCIP Mainnet Broken Link",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/68",
+          "state": "closed",
+          "updated": "2024-10-09T09:48:41Z",
+          "head": "main",
+          "headSha": "4810a86dcb9a13eb88f7cee75d43d011d30a16a6"
+        },
+        {
+          "number": 97,
+          "title": "Fix spelling issues",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/97",
+          "state": "closed",
+          "updated": "2024-10-09T09:48:15Z",
+          "head": "fix-spelling-issues",
+          "headSha": "3d15efa3cdc7eb496bdc896599ab3158be2426ed"
+        },
+        {
+          "number": 21,
+          "title": "test: init mock ulnOptions in setUp()",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/21",
+          "state": "closed",
+          "updated": "2024-10-09T09:46:09Z",
+          "head": "main",
+          "headSha": "f9d6c7d9518870041be463ca050ef6117242af7c"
+        },
+        {
+          "number": 25,
+          "title": "feat(functions): added events & function ability ",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/25",
+          "state": "closed",
+          "updated": "2024-10-09T09:45:17Z",
+          "head": "feature",
+          "headSha": "5b89e53bc601f9473bc6015628d3d3f61ff31a1a"
+        },
+        {
+          "number": 41,
+          "title": "feat(protocol) : NatSpec comments added",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/41",
+          "state": "closed",
+          "updated": "2024-10-09T09:44:57Z",
+          "head": "comments",
+          "headSha": "bc5396eebbb8584b13355abf750b197cd6282973"
+        },
+        {
+          "number": 103,
+          "title": "chore:  update EVM Executor reference implementation",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/103",
+          "state": "closed",
+          "updated": "2024-09-24T14:09:47Z",
+          "head": "chore/update_executor_reference_implementation",
+          "headSha": "f7e2b8de62c195d62bbb2a208d1ccd67f57a8365"
+        },
+        {
+          "number": 99,
+          "title": "add decimalConversionRate public getter to IOFT",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/99",
+          "state": "open",
+          "updated": "2024-08-29T06:10:15Z",
+          "head": "patch-1",
+          "headSha": "59fb3ac4f6861c4b010909b39732a24e02464c80"
+        },
+        {
+          "number": 27,
+          "title": "Update SendLibBaseE2.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/27",
+          "state": "closed",
+          "updated": "2024-08-06T23:10:40Z",
+          "head": "patch-1",
+          "headSha": "a9c75521e42540aa6181edae14db4e2b086cd149"
+        },
+        {
+          "number": 28,
+          "title": "Update OApp.sol",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/28",
+          "state": "closed",
+          "updated": "2024-08-06T23:10:04Z",
+          "head": "patch-1",
+          "headSha": "d552b68e7a0c828c2b74ce238340ac4084fc602b"
+        },
+        {
+          "number": 98,
+          "title": "Create codeql.yml",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/98",
+          "state": "open",
+          "updated": "2024-08-02T23:25:16Z",
+          "head": "main",
+          "headSha": "1fcde62f808e2a27843c9237c82fb584a1dec83d"
+        },
+        {
+          "number": 90,
+          "title": "refactor uln",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/90",
+          "state": "closed",
+          "updated": "2024-06-27T08:48:44Z",
+          "head": "sync/latest-code-2024-06-27",
+          "headSha": "4b1cbe778028dee62f9bffc85f61484593301755"
+        },
+        {
+          "number": 78,
+          "title": "Update README.md",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/78",
+          "state": "closed",
+          "updated": "2024-06-17T09:27:43Z",
+          "head": "patch-1",
+          "headSha": "4146d8d8c0d3679616714a1cddad2a33c89e6657"
+        },
+        {
+          "number": 63,
+          "title": "chore: remove repetitive words",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/63",
+          "state": "closed",
+          "updated": "2024-06-17T09:27:02Z",
+          "head": "main",
+          "headSha": "3af27aaeaf0637799951bd320f32493d0811b5ab"
+        },
+        {
+          "number": 64,
+          "title": "chore: remove repetitive words",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/64",
+          "state": "closed",
+          "updated": "2024-06-17T09:26:56Z",
+          "head": "main",
+          "headSha": "795a7bb97d139783e69dbb9cd99177389c235196"
+        },
+        {
+          "number": 59,
+          "title": "Add admonition",
+          "url": "https://github.com/LayerZero-Labs/LayerZero-v2/pull/59",
+          "state": "closed",
+          "updated": "2024-06-17T09:26:40Z",
+          "head": "patch-1",
+          "headSha": "c600054f7c129370550bac1c8dc52e2399ffb00f"
+        }
+      ]
+    },
+    {
+      "repo": "LayerZero-Labs/devtools",
+      "status": 200,
+      "scope": "100 most recently updated PRs, all states; not all historical PRs",
+      "prs": [
+        {
+          "number": 1925,
+          "title": "Bump the lz-definitions group across 26 directories with 1 update",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1925",
+          "state": "open",
+          "updated": "2026-10-26T14:50:12Z",
+          "head": "dependabot/npm_and_yarn/lz-definitions-8b315a567a",
+          "headSha": "9e385b64a616f56539fe91dd6801b2d2f17b31a6"
+        },
+        {
+          "number": 1957,
+          "title": "fix(oft-evm-upgradeable): align sharedDecimals mutability with IOFT and OFTCore",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1957",
+          "state": "open",
+          "updated": "2026-10-19T19:22:36Z",
+          "head": "fix/oft-upgradeable-shared-decimals-view",
+          "headSha": "cdb92d65b1eb46c2fd4029b9a05e1aacd3b6cd29"
+        },
+        {
+          "number": 1951,
+          "title": "feat: add AI Evidence Oracle example (Procedural Proof)",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1951",
+          "state": "open",
+          "updated": "2026-09-29T23:06:13Z",
+          "head": "feat/oapp-ai-oracle",
+          "headSha": "3cc1d81f641b21ab5a8ee1c799b8c7fcf5713c8c"
+        },
+        {
+          "number": 1950,
+          "title": "fix(examples): send-task errors print `OFT: undefined` when `--oft-address` is omitted",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1950",
+          "state": "open",
+          "updated": "2026-08-11T19:48:54Z",
+          "head": "fix/oft-undefined-in-send-task-errors",
+          "headSha": "5330802c768cf62296b21a6b6608f430824ebd52"
+        },
+        {
+          "number": 1948,
+          "title": "chore: point Movement aptos-core/movement-tokens URLs at movement-net…",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1948",
+          "state": "open",
+          "updated": "2026-07-30T17:16:17Z",
+          "head": "chore/github-org-movement-network",
+          "headSha": "c0c8ef121ab2704006d0cac340732879f334c1e6"
+        },
+        {
+          "number": 1947,
+          "title": "OAPP-2067 fix(ua-devtools): skip already-pinned libraries with areBytes32Equal",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1947",
+          "state": "open",
+          "updated": "2026-07-21T21:33:02Z",
+          "head": "krak/fix-library-samevalue-idempotency",
+          "headSha": "0307d6d78ab39139d9c099ae767bad95d5fdb92f"
+        },
+        {
+          "number": 1931,
+          "title": "🔒 Update example lockfiles",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1931",
+          "state": "closed",
+          "updated": "2026-06-30T22:55:40Z",
+          "head": "lockfiles-update/main",
+          "headSha": "12ff75eeeb141433c4400f4f75d75fb3f70734ff"
+        },
+        {
+          "number": 1938,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1938",
+          "state": "closed",
+          "updated": "2026-06-30T21:30:24Z",
+          "head": "changeset-release/main",
+          "headSha": "7583c907a6f45a970315790945eb4c5582eee3f5"
+        },
+        {
+          "number": 1946,
+          "title": "patch",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1946",
+          "state": "closed",
+          "updated": "2026-06-30T19:52:55Z",
+          "head": "shankar/ci",
+          "headSha": "c47c628430c77b9b84063cd0bfad98f62e3dae49"
+        },
+        {
+          "number": 1944,
+          "title": "fix(protocol-devtools): treat explicitly-empty ULN config values as NIL sentinels",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1944",
+          "state": "closed",
+          "updated": "2026-06-30T16:38:14Z",
+          "head": "krak/fix-uln-nil-sentinels",
+          "headSha": "f348eb794910060ada2000487fa0458c033451e0"
+        },
+        {
+          "number": 1942,
+          "title": "chore: Update examples ",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1942",
+          "state": "open",
+          "updated": "2026-05-12T12:43:58Z",
+          "head": "fabianhug/dvn-example-rework",
+          "headSha": "ff25bbf331944403a76d8071cc863f18384e855f"
+        },
+        {
+          "number": 1892,
+          "title": "fix: exports supports esm",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1892",
+          "state": "closed",
+          "updated": "2026-05-08T11:00:56Z",
+          "head": "fix/export",
+          "headSha": "2c9b23421ca376dcec6270bba296e265600bf349"
+        },
+        {
+          "number": 1941,
+          "title": "Fix(test-devtools-evm-foundry): remove lz-evm-v1 dependency that breaks external Foundry builds",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1941",
+          "state": "open",
+          "updated": "2026-05-06T11:24:02Z",
+          "head": "bugfix/compilation-issue",
+          "headSha": "17a69cfcf1fdec1359b1b174c03bde0796dea8de"
+        },
+        {
+          "number": 1940,
+          "title": "fix(hyperliquid-composer): validate evmExtraWeiDecimals before requestEvmContract",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1940",
+          "state": "open",
+          "updated": "2026-03-23T21:25:23Z",
+          "head": "feat/hyper-check-evm-decimals",
+          "headSha": "cea8e5644ca9b6d23b5d8352466dcbc04501ab00"
+        },
+        {
+          "number": 1933,
+          "title": "Add oft tip 20 implementation and tests",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1933",
+          "state": "closed",
+          "updated": "2026-03-23T15:35:01Z",
+          "head": "oft-tip-20",
+          "headSha": "e6440147666f13fc0fe24f4f7a3dede9aec514c6"
+        },
+        {
+          "number": 1939,
+          "title": "fix(ovault-evm): override _sendLocal in VaultComposerSyncNative to deliver native ETH",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1939",
+          "state": "open",
+          "updated": "2026-03-12T18:06:02Z",
+          "head": "fix/vault-composer-native-send-local",
+          "headSha": "f0a9c2eb1fceeb677049cbd68742028daa1126ea"
+        },
+        {
+          "number": 1916,
+          "title": " QoL batch 3",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1916",
+          "state": "open",
+          "updated": "2026-03-05T17:37:42Z",
+          "head": "qol-3",
+          "headSha": "448ea6cd32cabd30002db26791f8c7e97f439fe9"
+        },
+        {
+          "number": 1689,
+          "title": "IP-1274 feat(oft-solana): conditional ata value",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1689",
+          "state": "open",
+          "updated": "2026-03-04T20:07:17Z",
+          "head": "solana-examples/conditional-ata-value",
+          "headSha": "7302b1e23800a9177cdad1c6303fe0e2363e8390"
+        },
+        {
+          "number": 1897,
+          "title": "IP-1286 test(oft-solana): add solana tests",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1897",
+          "state": "open",
+          "updated": "2026-03-04T19:41:12Z",
+          "head": "init-solana-tests",
+          "headSha": "39dadc21a17d2ddf80eebaa95f22ade4a8a3b7cf"
+        },
+        {
+          "number": 1345,
+          "title": "🗞️  init devtools principles",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1345",
+          "state": "closed",
+          "updated": "2026-03-04T18:24:41Z",
+          "head": "devtools-principles",
+          "headSha": "85e3494ace97c498d82d05cd74b9da3c1e707cb0"
+        },
+        {
+          "number": 1928,
+          "title": "DEVREL-1299 fix(devtools-move): bump initia.js and update deployer derivation",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1928",
+          "state": "closed",
+          "updated": "2026-02-27T22:07:25Z",
+          "head": "initia-version-bump-standalone",
+          "headSha": "05c75113382720f00afe2ddd3299cfb1a6a4483e"
+        },
+        {
+          "number": 1937,
+          "title": "remove call to getInitiaDeployerAddress",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1937",
+          "state": "closed",
+          "updated": "2026-02-27T07:57:59Z",
+          "head": "initia-no-ts-derivation",
+          "headSha": "aa2631947930e1d59131bfa0f7d2398a9b1e20c5"
+        },
+        {
+          "number": 1936,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1936",
+          "state": "closed",
+          "updated": "2026-02-19T21:27:58Z",
+          "head": "changeset-release/main",
+          "headSha": "7d659cc0f897f66fb4df4bdc350bf64cd237040f"
+        },
+        {
+          "number": 1934,
+          "title": "fix: chunk setConfig to avoid calldata limits on L2s",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1934",
+          "state": "closed",
+          "updated": "2026-02-19T20:13:29Z",
+          "head": "krak/chunk-setconfig-evm",
+          "headSha": "53050f2435b1c16ec5fe87df8ed0570f6cf524c4"
+        },
+        {
+          "number": 1935,
+          "title": "[DEVREL-1425] fix: chunk setConfig to avoid calldata limits on L2s",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1935",
+          "state": "closed",
+          "updated": "2026-02-19T18:15:47Z",
+          "head": "krak/chunk-setconfig-evm",
+          "headSha": "a225538ef9621bef30992f992673e265bae93c69"
+        },
+        {
+          "number": 1902,
+          "title": "DEVREL-1240 QoL batch 2",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1902",
+          "state": "open",
+          "updated": "2026-02-14T09:00:12Z",
+          "head": "only-oft-store-as-flag",
+          "headSha": "1502c59b5a8a61f4c7900e7eb5d49d2964419311"
+        },
+        {
+          "number": 1906,
+          "title": "DEVREL-1186 devtools QoL batch 1",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1906",
+          "state": "open",
+          "updated": "2026-02-14T08:29:01Z",
+          "head": "devtools-qol",
+          "headSha": "607c6e1535bb68b0e55aa6465c3e246b595ab5e3"
+        },
+        {
+          "number": 1898,
+          "title": "DEVREL-1077 migrate oft-solana anchor tests from solana-test-validator to Surfpool",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1898",
+          "state": "closed",
+          "updated": "2026-02-10T16:14:10Z",
+          "head": "migrate-to-surfpool",
+          "headSha": "dc65c7b66908bf9398d8dc8ff0ad700a5e675ab7"
+        },
+        {
+          "number": 1783,
+          "title": "feat: use latest initiad & initia.js ",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1783",
+          "state": "open",
+          "updated": "2026-02-10T06:16:18Z",
+          "head": "feat/latest-initia",
+          "headSha": "2377caf560d94bf7e595b007941fb5c0ecc447bc"
+        },
+        {
+          "number": 1932,
+          "title": "hyperliquid: rename-feeabstraction",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1932",
+          "state": "closed",
+          "updated": "2026-02-09T20:15:25Z",
+          "head": "hlp/patch/rename-feeabstraction",
+          "headSha": "233a29d6f67ccd532208ed4d9c7a20bef240fa28"
+        },
+        {
+          "number": 1930,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1930",
+          "state": "closed",
+          "updated": "2026-02-08T15:44:28Z",
+          "head": "changeset-release/main",
+          "headSha": "6a5ea55badf85068defc238cab4e39d8690be7ad"
+        },
+        {
+          "number": 1929,
+          "title": "feat(hyperliquid-composer): update docs and contract NatSpec",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1929",
+          "state": "closed",
+          "updated": "2026-02-07T01:47:20Z",
+          "head": "hlp/docs/update",
+          "headSha": "5b99170f89a081d73b579e1c2c1d4b80278fb234"
+        },
+        {
+          "number": 1927,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1927",
+          "state": "closed",
+          "updated": "2026-02-05T18:38:53Z",
+          "head": "changeset-release/main",
+          "headSha": "38da88421f08abae5222f0936bf360a449802591"
+        },
+        {
+          "number": 1926,
+          "title": "feat: verify-contract/config: adding redbelly config for verify-contract",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1926",
+          "state": "closed",
+          "updated": "2026-02-03T22:01:26Z",
+          "head": "jadi/verify-redbelly",
+          "headSha": "b9981531a169df581536e5ee30c676d3938b9615"
+        },
+        {
+          "number": 1876,
+          "title": "DEVREL-997 Solana OFT wiring: warn when provided address is not the admin/delegate",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1876",
+          "state": "closed",
+          "updated": "2026-02-03T17:25:48Z",
+          "head": "solana-warning-when-multisig-key-not-provided",
+          "headSha": "91e710e4c2a83d760a1c5164034c57da6d021a62"
+        },
+        {
+          "number": 1924,
+          "title": "🔒 Update example lockfiles",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1924",
+          "state": "closed",
+          "updated": "2026-02-03T01:28:02Z",
+          "head": "lockfiles-update/main",
+          "headSha": "3075d5401fe957e411554b8fc27053c4f62be6ad"
+        },
+        {
+          "number": 1915,
+          "title": "DEVREL-1233 setup dependabot for lz-definitions",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1915",
+          "state": "closed",
+          "updated": "2026-01-30T14:21:58Z",
+          "head": "setup-dependabot",
+          "headSha": "298db8c0dd5db6c0ed65df9af5cb0cc7915bc497"
+        },
+        {
+          "number": 1914,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1914",
+          "state": "closed",
+          "updated": "2026-01-28T00:43:50Z",
+          "head": "changeset-release/main",
+          "headSha": "d06969261cbf060f944ecd06829462bd330e8369"
+        },
+        {
+          "number": 1923,
+          "title": "feat(oft-main): add Aptos support for multi-VM wiring",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1923",
+          "state": "open",
+          "updated": "2026-01-28T00:42:40Z",
+          "head": "feat/devtools-aptos-examples",
+          "headSha": "1c933823364e3da54cc8b8381461debef8720b7e"
+        },
+        {
+          "number": 1922,
+          "title": "feat(devtools-aptos): add Aptos devtools packages for OmniGraph support",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1922",
+          "state": "open",
+          "updated": "2026-01-28T00:41:45Z",
+          "head": "feat/devtools-aptos-packages",
+          "headSha": "9fd740c7dcfed391d71b494bbe0f5bb1620e8d36"
+        },
+        {
+          "number": 1920,
+          "title": "feat(devtools-aptos): add Aptos devtools packages for OmniGraph wire support",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1920",
+          "state": "closed",
+          "updated": "2026-01-28T00:40:44Z",
+          "head": "feat/devtools-aptos-examples",
+          "headSha": "1c933823364e3da54cc8b8381461debef8720b7e"
+        },
+        {
+          "number": 1921,
+          "title": "docs: add Aptos devtools implementation plan",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1921",
+          "state": "closed",
+          "updated": "2026-01-28T00:33:42Z",
+          "head": "feat/devtools-aptos",
+          "headSha": "e19a21e1ff434e3a551f8cddfe9afeecac676c12"
+        },
+        {
+          "number": 1919,
+          "title": "feat(examples): add Sui and Starknet support to oft-main",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1919",
+          "state": "open",
+          "updated": "2026-01-27T23:10:35Z",
+          "head": "feat/devtools-sui-examples",
+          "headSha": "716a53d6408b30a942828965db1e593682ca6b2e"
+        },
+        {
+          "number": 1918,
+          "title": "feat: add Sui and Starknet devtools packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1918",
+          "state": "open",
+          "updated": "2026-01-27T23:05:33Z",
+          "head": "feat/devtools-sui-packages",
+          "headSha": "99d2d96d3f2575c8773ae0590632bd272ef56ec6"
+        },
+        {
+          "number": 1917,
+          "title": "feat: add Sui and Starknet devtools support",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1917",
+          "state": "closed",
+          "updated": "2026-01-27T19:39:44Z",
+          "head": "feat/devtools-sui",
+          "headSha": "148b34dc37e6abfce78f493c380ef4d6ab0533d4"
+        },
+        {
+          "number": 1877,
+          "title": "DEVREL-932 devtools-solana: add escape hatch for assertValidSolanaAdmin",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1877",
+          "state": "closed",
+          "updated": "2026-01-22T22:23:09Z",
+          "head": "vault-check-escape-hatch",
+          "headSha": "c2d258d8cd7b7daf5d8845bdf8baf92bb24ae030"
+        },
+        {
+          "number": 1904,
+          "title": "hlp/secondary-spot-markets",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1904",
+          "state": "closed",
+          "updated": "2026-01-22T22:18:11Z",
+          "head": "hlp/secondary-spot-markets",
+          "headSha": "cc1d7e4d2b9a234db532c7914586999f4b17cfbc"
+        },
+        {
+          "number": 1908,
+          "title": "🔒 Update example lockfiles",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1908",
+          "state": "closed",
+          "updated": "2026-01-22T19:16:22Z",
+          "head": "lockfiles-update/main",
+          "headSha": "63ce60ab061fd2ab5480cd68242c890d98b40e77"
+        },
+        {
+          "number": 1912,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1912",
+          "state": "closed",
+          "updated": "2026-01-22T18:27:39Z",
+          "head": "changeset-release/main",
+          "headSha": "2f322db9b0972b1c5bbb7414a3ec36ab9ac33d45"
+        },
+        {
+          "number": 1910,
+          "title": "DEVREL-1193 simple config should allow for skipping of EIDs",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1910",
+          "state": "closed",
+          "updated": "2026-01-22T08:20:43Z",
+          "head": "simple-config-skip-eids",
+          "headSha": "4ce0bffda7cc98a77f4ab161606d5aecff058d33"
+        },
+        {
+          "number": 1911,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1911",
+          "state": "closed",
+          "updated": "2026-01-22T01:45:22Z",
+          "head": "changeset-release/main",
+          "headSha": "651ea898f6096b5698e8afcb59a10ba85f0fdde3"
+        },
+        {
+          "number": 1901,
+          "title": "DEVREL-1159  feat(wiring): for solana, display txn data as base58",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1901",
+          "state": "closed",
+          "updated": "2026-01-21T23:38:30Z",
+          "head": "solana-txn-data-output",
+          "headSha": "9015d7c632c51675ca0e1c68400fb267cfdf1451"
+        },
+        {
+          "number": 1909,
+          "title": "DEVREL-1193 simple config should allow for skipping of EIDs",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1909",
+          "state": "closed",
+          "updated": "2026-01-21T23:31:02Z",
+          "head": "qol-2",
+          "headSha": "4ce0bffda7cc98a77f4ab161606d5aecff058d33"
+        },
+        {
+          "number": 1896,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1896",
+          "state": "closed",
+          "updated": "2026-01-20T20:32:48Z",
+          "head": "changeset-release/main",
+          "headSha": "1393e290076ed44a684fc8b11822bfc9f1dfee6f"
+        },
+        {
+          "number": 1895,
+          "title": "DEVREL-1052 feat: add tempo example to oft-alt example folder",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1895",
+          "state": "open",
+          "updated": "2026-01-20T20:01:57Z",
+          "head": "feat/add-tempo-example",
+          "headSha": "099d26d17c85fdd713484e41c05e88ba80901618"
+        },
+        {
+          "number": 1899,
+          "title": "DEVREL-1154 feat(create-lz-oapp): update labels for OFT during setup",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1899",
+          "state": "closed",
+          "updated": "2026-01-20T19:27:32Z",
+          "head": "relabel-examples",
+          "headSha": "587752e87a153dac3ce6ff5b4b99d92fc685ff0e"
+        },
+        {
+          "number": 1907,
+          "title": "chore: solana 2.3.0 and anchor 0.32.1",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1907",
+          "state": "open",
+          "updated": "2026-01-20T12:08:42Z",
+          "head": "ci/update-solana-anchor",
+          "headSha": "7663f001f353afa105e47d6c56349557e586da01"
+        },
+        {
+          "number": 1905,
+          "title": "docs: clarify example-specific tasks and native adapter instructions",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1905",
+          "state": "open",
+          "updated": "2026-01-20T00:25:31Z",
+          "head": "fix/docs-accuracy-verification",
+          "headSha": "aa68aa89564423125a7b0d3b640d2a14ece0691a"
+        },
+        {
+          "number": 1871,
+          "title": "DEVREL-1012 fix squads vault detection",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1871",
+          "state": "closed",
+          "updated": "2026-01-19T15:26:54Z",
+          "head": "vault-detection-when-solana-devnet",
+          "headSha": "cf14b14cf80b1713338fbc103d95309ab49b0af6"
+        },
+        {
+          "number": 1903,
+          "title": "fix: remove legacy V1 ULN references from DVNMock.sol to fix V2 compile errors.",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1903",
+          "state": "open",
+          "updated": "2026-01-18T10:08:12Z",
+          "head": "fix/remove-v1-uln-dvnmock",
+          "headSha": "57c731c1d7a9b02a2792ce09019efb3b32d5693f"
+        },
+        {
+          "number": 1850,
+          "title": "DEVREL-930 Oapp solana migrate lzrt v2",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1850",
+          "state": "closed",
+          "updated": "2026-01-16T20:58:25Z",
+          "head": "oapp-solana-migrate-lzrt-v2",
+          "headSha": "61d812bf506ae1bf309f2d4d0b150484984f61e8"
+        },
+        {
+          "number": 1900,
+          "title": "chore: init transferhook example",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1900",
+          "state": "open",
+          "updated": "2026-01-15T17:15:13Z",
+          "head": "feat/transferhook-example",
+          "headSha": "a9d410ca4b632945e547712fa06e26aaf66b6ef1"
+        },
+        {
+          "number": 1878,
+          "title": "fix/verify-contract: - fall back to source-based extraction if there's a mismatch in ABI",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1878",
+          "state": "closed",
+          "updated": "2026-01-09T22:26:24Z",
+          "head": "jadi/continue-on-missing-data",
+          "headSha": "6ed471e6f8bd146e8acb92455a440f0e280c71b9"
+        },
+        {
+          "number": 1883,
+          "title": "feat: test e2e improvements",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1883",
+          "state": "closed",
+          "updated": "2026-01-07T00:14:06Z",
+          "head": "ci/accumulate-e2e-logs",
+          "headSha": "aa8d41a3ea2933c5803a033f5b61678391f10d6c"
+        },
+        {
+          "number": 1860,
+          "title": "Feat/oft upgradeable pattern changes",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1860",
+          "state": "closed",
+          "updated": "2026-01-05T16:15:47Z",
+          "head": "feat/oft-upgradeable-pattern-changes",
+          "headSha": "effe449d022ff6236b7f34cfa2f7e4556902ec9e"
+        },
+        {
+          "number": 1891,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1891",
+          "state": "closed",
+          "updated": "2025-12-29T05:16:08Z",
+          "head": "changeset-release/main",
+          "headSha": "26aaabbbcbfdc510ef07c6bd05d8abd8896826cb"
+        },
+        {
+          "number": 1893,
+          "title": "Fix issue bug: `lz:deploy` requires deploy task name matches `contractName`",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1893",
+          "state": "open",
+          "updated": "2025-12-26T16:56:05Z",
+          "head": "Fix-Issue-#1066",
+          "headSha": "44ae34bebb86841b317be19dd870a4ff40159bbb"
+        },
+        {
+          "number": 1887,
+          "title": "feat/verify: adding flow blockchain to verify-contract networks",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1887",
+          "state": "closed",
+          "updated": "2025-12-23T18:54:04Z",
+          "head": "jadi/verify-flow",
+          "headSha": "e53fa004b15620d7ca0e39c813ffae2d7eb275ad"
+        },
+        {
+          "number": 1890,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1890",
+          "state": "closed",
+          "updated": "2025-12-23T04:45:26Z",
+          "head": "changeset-release/main",
+          "headSha": "748e09c1a5d2f1a450491a0995871a9388286003"
+        },
+        {
+          "number": 1889,
+          "title": "chore: add `virtual` flag to overridable functions",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1889",
+          "state": "closed",
+          "updated": "2025-12-23T03:45:42Z",
+          "head": "tino/oft-evm-up-virtual",
+          "headSha": "7d222fd328a65d4226e2abf0be5fc7e79db13771"
+        },
+        {
+          "number": 1886,
+          "title": "🔒 Update example lockfiles",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1886",
+          "state": "closed",
+          "updated": "2025-12-17T03:25:26Z",
+          "head": "lockfiles-update/main",
+          "headSha": "7f48bf7c0cbb5c2a2bd7d5b301fe7b460e23a42d"
+        },
+        {
+          "number": 1754,
+          "title": "docs: update",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1754",
+          "state": "closed",
+          "updated": "2025-12-17T02:58:13Z",
+          "head": "hlp/docs",
+          "headSha": "c25d4e160b02966e1a4d8473193c6f0736c67749"
+        },
+        {
+          "number": 1755,
+          "title": "patch: skip user test",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1755",
+          "state": "closed",
+          "updated": "2025-12-17T02:58:06Z",
+          "head": "patch/ci-skip-user-test",
+          "headSha": "a627547d162c199b0a72bacdd6a5e293a10a4aad"
+        },
+        {
+          "number": 1764,
+          "title": "fix -  wrap ETH in lzCompose",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1764",
+          "state": "closed",
+          "updated": "2025-12-17T02:58:00Z",
+          "head": "fix/native-vault-weth-wrap",
+          "headSha": "67047990fd13aa3777b5b691cd3171233dfd962e"
+        },
+        {
+          "number": 1775,
+          "title": "vault - fixes 2",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1775",
+          "state": "closed",
+          "updated": "2025-12-17T02:57:53Z",
+          "head": "audit/fixes-2",
+          "headSha": "80d3e22462bd944892563f2bd4b6681bcddc8605"
+        },
+        {
+          "number": 1788,
+          "title": "native-pool-review",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1788",
+          "state": "closed",
+          "updated": "2025-12-17T02:57:47Z",
+          "head": "native-pool-review",
+          "headSha": "e18e5feec8fb1f9c9a34f3f3ba32dcc2be0eaa6b"
+        },
+        {
+          "number": 1792,
+          "title": "hyperliquid sdk updates",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1792",
+          "state": "closed",
+          "updated": "2025-12-17T02:57:40Z",
+          "head": "hlp/sdk",
+          "headSha": "44c73e88b98a398da7050e0051d48b3b0397b244"
+        },
+        {
+          "number": 1798,
+          "title": "patch - ovault nativeComposer-virtualize-functions",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1798",
+          "state": "closed",
+          "updated": "2025-12-17T02:57:33Z",
+          "head": "ovault/nativeComposer-virtualize-assertion",
+          "headSha": "203c5d216bcce4bb3b5658e89babcb11325bcacc"
+        },
+        {
+          "number": 1802,
+          "title": "Ci/commit-tag-foundry",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1802",
+          "state": "closed",
+          "updated": "2025-12-17T02:57:12Z",
+          "head": "ci/commit-tag-foundry",
+          "headSha": "e961f58cdef0cdff27c9bfe6e9abf9a11dfda299"
+        },
+        {
+          "number": 1823,
+          "title": "refactor/e2e tests",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1823",
+          "state": "closed",
+          "updated": "2025-12-17T02:57:05Z",
+          "head": "refactor/e2e-tests",
+          "headSha": "355e4a36b39a3206bcc2a9bb6cf2a6cb91941596"
+        },
+        {
+          "number": 1824,
+          "title": "chore: continue on error in test e2e",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1824",
+          "state": "closed",
+          "updated": "2025-12-17T02:56:57Z",
+          "head": "e2e/continue-on-error",
+          "headSha": "4b34e63a5d49411fd67387e849022e14724f5251"
+        },
+        {
+          "number": 1864,
+          "title": "feat: codeql workflow for ts and rust",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1864",
+          "state": "closed",
+          "updated": "2025-12-17T02:56:51Z",
+          "head": "ci/codeql-workflow",
+          "headSha": "d48ad2709bf4674edeb02ec7611d8613725d218b"
+        },
+        {
+          "number": 1872,
+          "title": "update codeql workflow",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1872",
+          "state": "closed",
+          "updated": "2025-12-17T02:56:43Z",
+          "head": "patch/shell-script-lint",
+          "headSha": "fe2ca9079b4781f8901134707191f930f41edc40"
+        },
+        {
+          "number": 1885,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1885",
+          "state": "closed",
+          "updated": "2025-12-17T02:26:06Z",
+          "head": "changeset-release/main",
+          "headSha": "db23cee224a675b0d9efcc16f2f4592c0e7cefc6"
+        },
+        {
+          "number": 1874,
+          "title": "hlp/sdk-finalize-and-quote-asset-update",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1874",
+          "state": "closed",
+          "updated": "2025-12-17T00:52:53Z",
+          "head": "hlp/sdk-finalize-and-quote-asset-update",
+          "headSha": "e8c22de08adb036168a68cb4270ef58c58398680"
+        },
+        {
+          "number": 1884,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1884",
+          "state": "closed",
+          "updated": "2025-12-17T00:12:44Z",
+          "head": "changeset-release/main",
+          "headSha": "147bba84aaa0c228bf17d5a5bb2abe51200f681d"
+        },
+        {
+          "number": 1840,
+          "title": "DEVREL-782 Feat: support native composer in ovault example",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1840",
+          "state": "closed",
+          "updated": "2025-12-16T20:24:40Z",
+          "head": "feat/support-native-composer-in-ovault-example",
+          "headSha": "e864b08fb0110d46396fae65eb5a56b1143c0956"
+        },
+        {
+          "number": 1882,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1882",
+          "state": "closed",
+          "updated": "2025-12-16T01:55:16Z",
+          "head": "changeset-release/main",
+          "headSha": "8deaf7f20bcb0f6e59952346d24d9f638b811f1f"
+        },
+        {
+          "number": 1881,
+          "title": "Modify rate limiter",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1881",
+          "state": "closed",
+          "updated": "2025-12-15T15:43:38Z",
+          "head": "modify-rate-limiter",
+          "headSha": "4d6a0f3cc55b3aa9a46fb781e0faeee5564a7571"
+        },
+        {
+          "number": 1880,
+          "title": "Feat/add onft721msgcodec new decode functions",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1880",
+          "state": "open",
+          "updated": "2025-12-14T16:00:54Z",
+          "head": "feat/add-onft721msgcodec-new-decode-functions",
+          "headSha": "bbdd05781e810c67e670b6f3bfec0d5c7aeee22a"
+        },
+        {
+          "number": 1761,
+          "title": "DEVREL-782 feat: stargate ovault examples",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1761",
+          "state": "closed",
+          "updated": "2025-12-12T21:43:03Z",
+          "head": "feat/stargate-ovault-examples",
+          "headSha": "23294184afbb0c6cfd875b50b923121ed941c6ed"
+        },
+        {
+          "number": 1875,
+          "title": "🔒 Update example lockfiles",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1875",
+          "state": "closed",
+          "updated": "2025-12-11T16:52:53Z",
+          "head": "lockfiles-update/main",
+          "headSha": "736e6f8f6875042e892f6d64826d820dd2b01374"
+        },
+        {
+          "number": 1873,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1873",
+          "state": "closed",
+          "updated": "2025-12-10T06:40:28Z",
+          "head": "changeset-release/main",
+          "headSha": "544e35bef327c130bf5caf2228fde9cc21c66938"
+        },
+        {
+          "number": 1867,
+          "title": "DEVREL-1009 fix: solana enforced options setter logic",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1867",
+          "state": "closed",
+          "updated": "2025-12-10T03:10:14Z",
+          "head": "fix/solana-enforced-options-logic",
+          "headSha": "e43990c89dea913cca1facda7054b22d1f90db92"
+        },
+        {
+          "number": 1870,
+          "title": "fix solana oft wiring by removing duplicate tx",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1870",
+          "state": "closed",
+          "updated": "2025-12-10T03:08:24Z",
+          "head": "solana-wire/fix",
+          "headSha": "7ae3e01dd9d75c4b1bc1176473e042a1c121895c"
+        },
+        {
+          "number": 1865,
+          "title": "hlp/sdk-enableAlignedQuoteToken",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1865",
+          "state": "closed",
+          "updated": "2025-12-10T02:48:46Z",
+          "head": "hlp/sdk-enableAlignedQuoteToken",
+          "headSha": "29f75ce585e16cae14ebfdad2a0f5384858c96ef"
+        },
+        {
+          "number": 1866,
+          "title": "Ci/codeql workflow",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1866",
+          "state": "closed",
+          "updated": "2025-12-10T01:44:22Z",
+          "head": "ci/codeql-workflow",
+          "headSha": "a81c644aeb1f1bdb6450f911159beddb6daf0c8e"
+        },
+        {
+          "number": 1869,
+          "title": "🔒 Update example lockfiles",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1869",
+          "state": "closed",
+          "updated": "2025-12-09T04:56:50Z",
+          "head": "lockfiles-update/main",
+          "headSha": "e1fa64fc9fb636a8547f385c2d1bf468868532c0"
+        },
+        {
+          "number": 1863,
+          "title": "🚀 Version packages",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1863",
+          "state": "closed",
+          "updated": "2025-12-09T03:38:27Z",
+          "head": "changeset-release/main",
+          "headSha": "85d1a44c94b01b0880288988bc3b7cf90977003b"
+        },
+        {
+          "number": 1861,
+          "title": "feat: add support for signing hypercore EIP 712 messages using fordefi or fireblocks",
+          "url": "https://github.com/LayerZero-Labs/devtools/pull/1861",
+          "state": "closed",
+          "updated": "2025-12-09T01:23:12Z",
+          "head": "main",
+          "headSha": "e009d48c97da51d2997493e1cbde8216d64e451e"
+        }
+      ]
+    },
+    {
+      "repo": "LayerZero-Labs/monorepo-external",
+      "status": 200,
+      "scope": "100 most recently updated PRs, all states; not all historical PRs",
+      "prs": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "checkedAt": "2026-10-27T12:49:24.045Z",
+  "sources": [
+    {
+      "url": "https://api.relay.link/chains",
+      "status": 200
+    },
+    {
+      "url": "https://api.testnets.relay.link/chains",
+      "status": 200
+    },
+    {
+      "url": "https://metadata.layerzero-api.com/v1/metadata/deployments",
+      "status": 200
+    },
+    {
+      "url": "https://mainnet.stargate-api.com/v1/metadata?version=v2",
+      "status": 200
+    },
+    {
+      "url": "https://testnet.stargate-api.com/v1/metadata?version=v2",
+      "status": 200
+    },
+    {
+      "url": "https://sia.mayan.finance/v10/init",
+      "status": 200
+    }
+  ]
+}
