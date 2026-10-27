@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "timezone": "Europe/Amsterdam",
+  "mode": "manual_user_triggered",
+  "planPath": "SCANPLAN.md",
+  "initializedOn": "2026-10-27",
+  "lastScan": null,
+  "baselineComplete": false,
+  "sources": [],
+  "leads": [],
+  "note": "Eerdere chatresearch is vooronderzoek, geen volledige scan. Eerste opdracht start nulmeting."
+}
