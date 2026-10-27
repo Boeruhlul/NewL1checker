@@ -1,6 +1,7 @@
 # Instructies voor agents
 
 - Lees README.md, SCANPLAN.md en data/state.json voor iedere NewL1-scan.
+- Lees ook data/contract-watchlist.json en het contractonderzoek in scans/2026-10-27-contract-research.md. BSC-codebaseline is geen event-scan-cursor. Bewaar netwerkidentiteit per contract; 0x...3000 op BSC is geen NewL1 LaneRegistry en NewL1 CrossChain is volgens de nulmeting een placeholder.
 - De nieuwste GitHub-versie is leidend. Haal remote wijzigingen op voor je schrijft; overschrijf geen wijzigingen van anderen en gebruik geen force push.
 - Scans starten uitsluitend op verzoek. Geen scheduler installeren.
 - Volg alle bronroutes uit SCANPLAN.md; leg niet-uitgevoerde en mislukte controles expliciet vast.

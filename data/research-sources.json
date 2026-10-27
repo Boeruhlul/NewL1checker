@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bnb-docs",
+    "repository": "bnb-chain/bnb-chain.github.io",
+    "commit": "4c868ec0c6996a270c1b2b83713eb3c5285aca4b",
+    "checkedAt": "2026-10-27T11:00:31.803Z",
+    "lastSuccessfulCheck": "2026-10-27T11:00:31.803Z",
+    "scope": "Default branch snapshot, selected files and targeted keyword search; no full branch/PR/history audit",
+    "files": [
+      {
+        "path": "docs/newl1/governance/system-contracts.md",
+        "url": "https://github.com/bnb-chain/bnb-chain.github.io/blob/4c868ec0c6996a270c1b2b83713eb3c5285aca4b/docs/newl1/governance/system-contracts.md",
+        "sha256": "d8f73fdd8ae55e45831bfcfba15bed70ca408d02ccec85cf77c03a71b2a99736"
+      },
+      {
+        "path": "docs/newl1/governance/overview.md",
+        "url": "https://github.com/bnb-chain/bnb-chain.github.io/blob/4c868ec0c6996a270c1b2b83713eb3c5285aca4b/docs/newl1/governance/overview.md",
+        "sha256": "12259da6b0f15a5bc3a86803cc44d04513e1d24c7d26bf7b9e28709c1ac5869c"
+      },
+      {
+        "path": "docs/newl1/core-concepts/multi-lane.md",
+        "url": "https://github.com/bnb-chain/bnb-chain.github.io/blob/4c868ec0c6996a270c1b2b83713eb3c5285aca4b/docs/newl1/core-concepts/multi-lane.md",
+        "sha256": "a8ebc988642099c6315f220f83a96b41b4dfcdd7eeba1e79d0906b062887b419"
+      },
+      {
+        "path": "docs/newl1/get-started/network-info.md",
+        "url": "https://github.com/bnb-chain/bnb-chain.github.io/blob/4c868ec0c6996a270c1b2b83713eb3c5285aca4b/docs/newl1/get-started/network-info.md",
+        "sha256": "2962c7102e1528ccad55cb46d4400be56299ea888c3b94fb2012940eadb2da97"
+      },
+      {
+        "path": "docs/newl1/developers/json_rpc/newl1-api-list.md",
+        "url": "https://github.com/bnb-chain/bnb-chain.github.io/blob/4c868ec0c6996a270c1b2b83713eb3c5285aca4b/docs/newl1/developers/json_rpc/newl1-api-list.md",
+        "sha256": "2e09304fc72156264e80738f8cbb00c8193fc1ddff5865022371a8ab52df1a0e"
+      }
+    ]
+  },
+  {
+    "id": "canonical-bridge",
+    "repository": "bnb-chain/canonical-bridge",
+    "commit": "6f9f9c54bcc70ccf4ddc8a3907bf6a04c2fd1d50",
+    "checkedAt": "2026-10-27T11:00:31.803Z",
+    "lastSuccessfulCheck": "2026-10-27T11:00:31.803Z",
+    "scope": "Default branch snapshot, selected files and targeted keyword search; no full branch/PR/history audit",
+    "files": [
+      {
+        "path": "apps/canonical-bridge-server/src/common/constants/chains.ts",
+        "url": "https://github.com/bnb-chain/canonical-bridge/blob/6f9f9c54bcc70ccf4ddc8a3907bf6a04c2fd1d50/apps/canonical-bridge-server/src/common/constants/chains.ts",
+        "sha256": "5f23bd9f9d026e7a524442a5ff69da799725ccf55456a9a728249e3bb2c92832"
+      },
+      {
+        "path": "apps/canonical-bridge-ui/token-config/mainnet/chains.ts",
+        "url": "https://github.com/bnb-chain/canonical-bridge/blob/6f9f9c54bcc70ccf4ddc8a3907bf6a04c2fd1d50/apps/canonical-bridge-ui/token-config/mainnet/chains.ts",
+        "sha256": "ded3baaab25fae1f7be62a152f14ae0d2c95ea1d259647ab939f4f048c0df38c"
+      }
+    ]
+  },
+  {
+    "id": "bsc-contracts-research",
+    "repository": "bnb-chain/bsc-genesis-contract",
+    "commit": "84641812a013eda1593e058aeed4dc116c7746eb",
+    "checkedAt": "2026-10-27T11:00:31.803Z",
+    "lastSuccessfulCheck": "2026-10-27T11:00:31.803Z",
+    "scope": "Default branch snapshot, selected files and targeted keyword search; no full branch/PR/history audit",
+    "files": [
+      {
+        "path": "contracts/System.sol",
+        "url": "https://github.com/bnb-chain/bsc-genesis-contract/blob/84641812a013eda1593e058aeed4dc116c7746eb/contracts/System.sol",
+        "sha256": "33b048e2bfdc289dcc4c61d48e99116039f096869a7808db52f9b23c4df1d2c7"
+      },
+      {
+        "path": "contracts/GovHub.sol",
+        "url": "https://github.com/bnb-chain/bsc-genesis-contract/blob/84641812a013eda1593e058aeed4dc116c7746eb/contracts/GovHub.sol",
+        "sha256": "d141fc72f43da46c90dace818bbedba5dd704f7db3529c48d201b3c6845568e1"
+      },
+      {
+        "path": "test/utils/interface/IBSCGovernor.sol",
+        "url": "https://github.com/bnb-chain/bsc-genesis-contract/blob/84641812a013eda1593e058aeed4dc116c7746eb/test/utils/interface/IBSCGovernor.sol",
+        "sha256": "d93300f7fdb8a2d9698e40c9366c35d77af186fc346e162a3c27fb7006c478ef"
+      },
+      {
+        "path": "test/utils/interface/IBSCTimelock.sol",
+        "url": "https://github.com/bnb-chain/bsc-genesis-contract/blob/84641812a013eda1593e058aeed4dc116c7746eb/test/utils/interface/IBSCTimelock.sol",
+        "sha256": "91cb312916298d2883bd5399400f070e7f4474290c1bca9444289beb020ae263"
+      }
+    ]
+  },
+  {
+    "id": "bunker",
+    "repository": "imadegoodstuff/bunker",
+    "commit": "b4517b2e67988e6cf2a8f9aeebd449268796c70e",
+    "checkedAt": "2026-10-27T11:00:31.803Z",
+    "lastSuccessfulCheck": "2026-10-27T11:00:31.803Z",
+    "scope": "Default branch snapshot, selected files and targeted keyword search; no full branch/PR/history audit",
+    "files": [
+      {
+        "path": "README.md",
+        "url": "https://github.com/imadegoodstuff/bunker/blob/b4517b2e67988e6cf2a8f9aeebd449268796c70e/README.md",
+        "sha256": "ad20cbca2242284460165077866686ce85dea82fc83ac53368b8110f338c6297"
+      },
+      {
+        "path": "app/src/lib/config.ts",
+        "url": "https://github.com/imadegoodstuff/bunker/blob/b4517b2e67988e6cf2a8f9aeebd449268796c70e/app/src/lib/config.ts",
+        "sha256": "df2e2a520f4bc1d8baff847b432405b866cde033248f15aff645905c888c0658"
+      }
+    ]
+  }
+]

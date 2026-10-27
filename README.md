@@ -11,7 +11,7 @@ GitHub is de centrale bron voor het plan, scanstatus en geschiedenis. Geen autom
 
 ## Huidige status
 
-Plan en leeg register aangemaakt op 27 oktober 2026. De eerste volledige nulmeting is nog niet uitgevoerd. Eerdere chatresearch geldt alleen als vooronderzoek.
+Op 27 oktober 2026 is een [gerichte contract- en bridgenulmeting](scans/2026-10-27-contract-research.md) uitgevoerd. De [watchlist](data/contract-watchlist.json) bevat 15 gedocumenteerde NewL1-systeemadressen; een [BSC-codebaseline](data/bsc-contract-baseline.json) legt vier BSC-adressen vast. De volledige dagelijkse nulmeting van alle bronroutes is nog niet uitgevoerd.
 
 ## Na iedere scan
 

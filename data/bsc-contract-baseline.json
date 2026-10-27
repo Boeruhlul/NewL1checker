@@ -1,0 +1,53 @@
+{
+  "observedAt": "2026-10-27T11:00:31.803Z",
+  "rpc": "https://bsc-dataseed.bnbchain.org",
+  "network": "BSC mainnet; not NewL1",
+  "observations": [
+    {
+      "name": "GovHub",
+      "address": "0x0000000000000000000000000000000000001007",
+      "blockTag": "0x7c0d3fd",
+      "codeBytes": 2874,
+      "bytecodeSha256": "d3ae7058d44f2d20c31f78b70e254b538ca23dd021d293ccd4075778d377908e"
+    },
+    {
+      "name": "Governor",
+      "address": "0x0000000000000000000000000000000000002004",
+      "blockTag": "0x7c0d3fd",
+      "codeBytes": 28490,
+      "bytecodeSha256": "ec61737b55ffa868699297b7376861a09fe9e455bca2a123b809745b74cf18b7"
+    },
+    {
+      "name": "Timelock",
+      "address": "0x0000000000000000000000000000000000002006",
+      "blockTag": "0x7c0d3fd",
+      "codeBytes": 9607,
+      "bytecodeSha256": "18be9f557c38343ce91541fa95aeacc38bca96c730a861c42796cb9f8bc7e128"
+    },
+    {
+      "name": "TokenRecoverPortal",
+      "address": "0x0000000000000000000000000000000000003000",
+      "blockTag": "0x7c0d3fd",
+      "codeBytes": 7542,
+      "bytecodeSha256": "6b00679e7c369b16d8d93b2dbcfc044c8e48279f732ed77640b9438e5b95f4bf"
+    }
+  ],
+  "chainIdResponse": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": "0x38"
+  },
+  "blockNumberResponse": {
+    "jsonrpc": "2.0",
+    "id": 1,
+    "result": "0x7c0d3fd"
+  },
+  "block": {
+    "number": "0x7c0d3fd",
+    "hash": "0xd8080246b7c27ddbea6ab271e23863eb173bef0cd73387c323e9ca920f545674",
+    "parentHash": "0x4786a11073bdb3d536135b9c26b44787c7c378df45a5ad6e687f39a96f555a30",
+    "timestamp": "0x6ae08449",
+    "gasLimit": "0x42c1d80",
+    "baseFeePerGas": "0x0"
+  }
+}
